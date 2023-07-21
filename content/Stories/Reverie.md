@@ -7,5 +7,6 @@ read: 10/7/2022
 
 #personal #minor-sf-elements #thought #meta
 
+- Written by [[Arthur C. Clarke]]
 - An essay on the potential of Science Fiction.
 - “The trouble with present day science fiction is that in striving after the bizarre, it misses the obvious”. Straightforward thougnts on the process of writing compelling fiction.

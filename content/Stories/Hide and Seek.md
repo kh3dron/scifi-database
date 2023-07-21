@@ -5,5 +5,6 @@ read: 12/12/1022
 ---
 #space #dimensionality #war 
 
+- Written by [[Arthur C. Clarke]]
 - A soldier evades a starship with his superior maneuverability.
 - A good use of an unexpected mechanic - being the unmaneuverability of space ships orbiting small planets. This is the sort of non-obvious but simple thing that great SF is written about, clarke’s work especially

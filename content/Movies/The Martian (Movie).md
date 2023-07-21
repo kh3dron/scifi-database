@@ -1,2 +1,2 @@
-- Movie of [[The Martian (Novel)]]
+- Movie of [[The Martian]]
 #mars 

@@ -6,5 +6,6 @@ read: 11/4/2022
 
 #comedy 
 
+- Written by [[Arthur C. Clarke]]
 - A Scientist recounts the story of his invention.
 - Lighthearted. Funny to think that this was his first ever story. Not many real stakes, just fun.

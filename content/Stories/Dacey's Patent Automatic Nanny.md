@@ -4,3 +4,5 @@ collection: exhalation
 ---
 
 #children #personal 
+
+- Authored by [[Ted Chiang]]
