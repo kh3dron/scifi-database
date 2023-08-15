@@ -6,3 +6,4 @@
 - Parts of it felt similar to [[Permutation City]], funny enough - trying to control an alien parasite eating the sun / reality
 - Language focus in SF similar to [[Arrival]]
 - Obviously similar to [[The Martian]]
+- Solar parasite theme similar to [[Moonfall]] strangely enough

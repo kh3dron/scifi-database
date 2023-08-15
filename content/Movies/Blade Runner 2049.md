@@ -1,2 +1,3 @@
 - Saw Thanksgiving break of 2017, first visit home from college. 
 - [[Syd Mead]]
+- [[Philip K. Dick]]

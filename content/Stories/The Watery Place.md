@@ -6,5 +6,5 @@ read: 1/3/2023
 
 #aliens #punchline #comedy 
 
-- Written by [[Asimov]]
+- Written by [[Issac Asimov]]
 - Visitors meet an impatient man for first contact.
