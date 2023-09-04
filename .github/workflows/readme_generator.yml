@@ -1,4 +1,4 @@
-name: Run Python Script on Merge
+name: Generate README
 
 on:
   push
@@ -29,6 +29,12 @@ jobs:
         cd scripts && python readme-generator.py
       shell: sh
 
+    - name: Check for Changes
+      id: check_changes
+      run: |
+        git diff --exit-code || echo "Changes detected"
+      continue-on-error: true
+
     - name: Add README
       run: |
         pwd && ls
@@ -39,3 +45,4 @@ jobs:
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      if: steps.check_changes.outcome == 'success'
