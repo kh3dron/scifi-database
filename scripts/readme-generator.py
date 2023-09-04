@@ -64,9 +64,3 @@ with open("../README.md", "w") as file:
     file.write(f"Occurrences of Tags:\n\n")
     for tag, count in sorted(tag_counts.items(), key=lambda x: x[1], reverse=True):
         file.write(f'* {tag}: {count}' + "\n")
-    
-os.system("git config --global user.name 'GitHub Actions'")
-os.system("git config --global user.email 'actions@github.com'")
-os.system("git add README.md")
-os.system("git commit -m 'Update README.md via GitHub Actions'")
-os.system("git push")
