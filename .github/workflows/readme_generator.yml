@@ -17,14 +17,11 @@ jobs:
         python-version: 3.9
 
     - name: List Directory Contents
-      run: ls
-
-    - name: find script
-      run: file scripts/readme_generator.py
+      run: ls scripts
 
     - name: Run Python Script
       run: |
-        python scripts/readme_generator.py
+        cd scripts && python readme_generator.py
       shell: sh
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
