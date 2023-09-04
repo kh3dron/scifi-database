@@ -29,38 +29,78 @@ total = tv + comics + movies + novels + stories + people
 # TODO: recursive tags
 
 tag_counts = {}
-tag_pattern = r'#\w+(?:-\w+)*'
+link_counts = {}
 
-def extract_tags_from_file(file_path):
+tag_pattern = r'#\w+(?:-\w+)*(?:/\w+(?:-\w+)*)*'
+link_pattern = r'\[\[([^\]]+)\]\]'
+
+def pattern_parse(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
+        tag_count = 0
+        link_count = 0
         content = file.read()
+        
         tags = re.findall(tag_pattern, content)
         for tag in tags:
-            tag = tag.lower()
-            if tag in tag_counts:
-                tag_counts[tag] += 1
+            tag_parts = tag.split('/')
+            for i in range(1, len(tag_parts) + 1):
+                sub_tag = '/'.join(tag_parts[:i])
+                if sub_tag in tag_counts:
+                    tag_counts[sub_tag] += 1
+                else:
+                    tag_counts[sub_tag] = 1
+        
+        
+        links = re.findall(link_pattern, content)
+        for link in links:
+            link_count += 1
+            if link in link_counts:
+                link_counts[link] += 1
             else:
-                tag_counts[tag] = 1
+                link_counts[link] = 1
+            
+    return tag_count, link_count
+
+total_tag_count = 0
+total_link_count = 0
 
 for root, dirs, files in os.walk(directory):
     for filename in files:
         if filename.endswith('.md'):
             file_path = os.path.join(root, filename)
-            extract_tags_from_file(file_path)
+            tag_count, link_count = pattern_parse(file_path)
+            total_tag_count += tag_count
+            total_link_count += link_count
+
+sorted_tag_counts = sorted(tag_counts.items(), key=lambda x: (-x[1], x[0]))
+sorted_link_counts = sorted(link_counts.items(), key=lambda x: (-x[1], x[0]))
 
 # Generate README.md
 
 with open("../README.md", "w") as file:
-    file.write(f"# Total Entries: {total}\n")
-    file.write(f"Entries by Category:\n\n")
-    file.write(f"* Short Stories: {stories}\n")
-    file.write(f"* TV Episodes: {tv}\n")
-    file.write(f"* Novels: {novels}\n")
-    file.write(f"* Comics: {comics}\n")
-    file.write(f"* Movies: {movies}\n")
-    file.write(f"* People: {people}\n\n")
+    
+    file.write(f"### Global Statistics\n\n")
+    
+    file.write(f"* Total Pages: {total}\n")
+    file.write(f"* Total Tag occurrences: {total_tag_count}\n")
+    file.write(f"* Total Link occurrences: {total_link_count}\n\n")
+    
+    file.write(f"Pages by Category:\n")
+    file.write(f"  * Short Stories: {stories}\n")
+    file.write(f"  * TV Episodes: {tv}\n")
+    file.write(f"  * Novels: {novels}\n")
+    file.write(f"  * Comics: {comics}\n")
+    file.write(f"  * Movies: {movies}\n")
+    file.write(f"  * People: {people}\n")
+    
+    
+    file.write(f"\nUnique tags: {len(tag_counts)}\n")
+    file.write(f"Tags by usage:\n\n")
+    for tag, count in sorted_tag_counts:
+        file.write(f'* {tag}: {count}\n')
 
-    file.write(f"# Unique tags: {len(tag_counts)}\n")
-    file.write(f"Occurrences of Tags:\n\n")
-    for tag, count in sorted(tag_counts.items(), key=lambda x: x[1], reverse=True):
-        file.write(f'* {tag}: {count}' + "\n")
+    file.write(f"\nUnique links: {len(link_counts)}\n")
+    file.write(f"Links by usage:\n\n")
+    for link, count in sorted_link_counts:
+        file.write(f'* {link}: {count}\n')
+    
