@@ -3,7 +3,6 @@
 import os
 import random
 
-# Function to get the size of a file
 def get_file_size(file_path):
     return os.path.getsize(file_path)
 
@@ -20,9 +19,10 @@ def list_files_recursive(directory):
 
 start_directory = '../content'
 file_list = list_files_recursive(start_directory)
-file_list.sort(key=lambda x: x[1])
 
-# write this to a markdown file
+# sort by file size and then alphabetically
+file_list.sort(key=lambda x: (x[1], x[0]))
+
 with open("../analysis/smallest-files.md", "w") as file:
     file.write(f"# Files listed by size\n\n")
 
