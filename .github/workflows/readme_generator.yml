@@ -19,9 +19,12 @@ jobs:
     - name: List Directory Contents
       run: ls
 
+    - name: find script
+      run: file scripts/readme_generator.py
+
     - name: Run Python Script
       run: |
-        python ${{github.workspace}}/scripts/readme_generator.py
+        python scripts/readme_generator.py
       shell: sh
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
