@@ -1,3 +1,3 @@
-#class #inferior-aliens #biology 
+#class #aliens/inferior-aliens #biology 
 
 [[Neil Blomkamp]]

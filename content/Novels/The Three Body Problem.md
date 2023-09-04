@@ -1,4 +1,4 @@
 Sequel: [[The Dark Forest]]
 
 
-#superior-aliens #politics #politics 
+#aliens/superior-aliens #politics #politics 

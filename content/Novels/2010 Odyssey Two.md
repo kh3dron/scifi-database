@@ -1,5 +1,5 @@
 Sequel: [[2061 Odyssey Three]]
 
-#superior-aliens 
+#aliens/superior-aliens 
 
 - Written by [[Arthur C. Clarke]]

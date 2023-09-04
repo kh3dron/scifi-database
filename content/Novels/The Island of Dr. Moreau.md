@@ -3,6 +3,7 @@ Author: H.G. Wells
 ---
 
 #uplifting #biology
+[[H. G. Wells]]
 
 Definitely some elements of #mystery in the first act
 

@@ -1,1 +1,5 @@
-#vr #action #mystery #technical #brain-apis 
+#action #mystery #technical #brain-apis #gui-futurism 
+
+Spring ‘18, after long nights in the CS computer lab. I was so excited to be taking my first real CS class, I would stay late in the lab and work ahead in class. The only place open to get food afterwards was Maggie’s, so I would go there and eat a sandwich and read this from 10-11 before going to sleep.
+
+- Gets lots of attention about the #vr stuff of course, but I think it's more interesting politically and economically. This stands out as the best fiction I've seen for what a libertarian / capitalist utopia would look like. Nations and violence have all been commoditized, embassies are indistinguishable from franchises and there's a market solution to everything. Whether or not this system works well is not the focus of the story, but there's at least nice edges to the plot about how businesses work when the state doesn't have a monopoly on violence. The same thing is repeated to a lesser extent in [[The Diamond Age]]

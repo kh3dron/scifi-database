@@ -1,0 +1,2 @@
+- watched this in April 2020, one episode a night, right at the start of lockdown. Crazy time to be alive, and weird time to start this show. 
+- Making this page to create the #instrumentality tag - the idea of melding discrete beings into larger, singular minds with no egos. This whole show builds up to exploring this one idea in the finale. Really #bizarre  at first, but makes sense after some years thinking about this show. Should rewatch eventually. 

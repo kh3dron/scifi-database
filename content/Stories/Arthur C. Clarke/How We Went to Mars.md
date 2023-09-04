@@ -6,7 +6,7 @@ read: 10/6/2022
 
 
 #aliens #space #comedy 
-#mars 
+#space/mars
 
 - Written by [[Arthur C. Clarke]]
 - Explorers accidentaly get to mars.
