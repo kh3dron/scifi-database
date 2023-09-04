@@ -20,6 +20,6 @@ jobs:
 
     - name: Run Python Script
       run: |
-        python scripts/readme_generator.py
+        python ../scripts/readme_generator.py
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
