@@ -1,23 +1,105 @@
-# scifi-database
+# Page Counts by Category:
 
-This is an Obsidian workspace I'm putting together. To interact with it best, just clone this repo, and open the 'content' folder as an Obsidian Vault. 
+* Short Stories: 56
+* TV Episodes: 18
+* Novels: 56
+* Comics: 25
+* Movies: 65
 
-YAML section should have three things: 
-- author
-    - This always refers to the person credited as "author", or "written by" of a comic, novel, or story. 
-    - For movies or shows, this can be the director OR the writer, whichever name is best associative for the work. 
-- rate: 0-10
-- date: date last read, can be estimated. 
+Total Entries: 220
 
-Types of pages: 
-- Short stories
-- Episodes, or series or anthologies
-- Movies
-- Novels 
-- People, for the most prolific authors or notable designers
 
-Tags can be several things: 
-- genres, such as #romance or #slasher
-- themes, such as #lovecraftian or #bizarre
-- plot devices, such as #space-elevator or #control problem
-- specific recurrences, like #von-neumann-like or #abandoned-earth
+# Occurrences of Tags:
+
+* #action: 43
+* #aliens: 37
+* #space: 34
+* #matrix: 30
+* #personal: 28
+* #mystery: 21
+* #favorites: 17
+* #comedy: 16
+* #children: 16
+* #intelligence: 15
+* #romance: 15
+* #time-travel: 15
+* #politics: 14
+* #bizarre: 14
+* #time-gap: 14
+* #computation: 13
+* #thought: 13
+* #war: 13
+* #abandoned-earth: 12
+* #biology: 12
+* #horror: 11
+* #dimensionality: 11
+* #megastructures: 11
+* #twist: 10
+* #brain-apis: 10
+* #flesh: 10
+* #technical: 10
+* #dreams: 9
+* #minor-sf-elements: 9
+* #punchline: 9
+* #vr: 8
+* #gui-futurism: 8
+* #uplifting: 8
+* #lovecraftian: 7
+* #simulated-minds: 7
+* #self-manipulation: 7
+* #slasher: 7
+* #invasion: 6
+* #robotic-cities: 6
+* #body-horror: 6
+* #control-problem: 6
+* #parents: 6
+* #xfiles: 5
+* #meta: 5
+* #addiction: 5
+* #class: 5
+* #cyberpunk: 5
+* #language: 5
+* #uploaded-minds: 5
+* #students: 4
+* #medical: 4
+* #supernatural: 4
+* #cosmic-horror: 4
+* #past-future: 4
+* #legal: 4
+* #anthology: 4
+* #parody: 3
+* #black-mirror: 3
+* #memory: 3
+* #time-loop: 3
+* #von-neumann-like: 3
+* #religion: 3
+* #hacking: 3
+* #ya: 3
+* #agi: 3
+* #terraforming: 3
+* #instrumentality: 2
+* #telekinesis: 2
+* #finance: 2
+* #academics: 2
+* #space-elevator: 2
+* #gaming: 2
+* #environmental: 2
+* #family: 2
+* #robots: 2
+* #abundance: 2
+* #relativity: 2
+* #cloning: 2
+* #computronium: 2
+* #education: 1
+* #sex: 1
+* #multiverse: 1
+* #cities: 1
+* #apocalypse: 1
+* #energy: 1
+* #crime: 1
+* #animated: 1
+* #chemistry: 1
+* #mechs: 1
+* #omnipotence: 1
+* #physics: 1
+* #devolution: 1
