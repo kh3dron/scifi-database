@@ -21,7 +21,8 @@ comics = count_pages_in_directory(directory + "/Comics")
 movies = count_pages_in_directory(directory + "/Movies")
 novels = count_pages_in_directory(directory + "/Novels")
 stories = count_pages_in_directory(directory + "/Stories")
-total = tv + comics + movies + novels + stories
+people = count_pages_in_directory(directory + "/People")
+total = tv + comics + movies + novels + stories + people
 
 
 # Count tags
@@ -50,14 +51,16 @@ for root, dirs, files in os.walk(directory):
 # Generate README.md
 
 with open("../README.md", "w") as file:
-    file.write(f"# Page Counts by Category:\n\n")
+    file.write(f"# Total Entries: {total}\n")
+    file.write(f"Entries by Category:\n\n")
     file.write(f"* Short Stories: {stories}\n")
     file.write(f"* TV Episodes: {tv}\n")
     file.write(f"* Novels: {novels}\n")
     file.write(f"* Comics: {comics}\n")
-    file.write(f"* Movies: {movies}\n\n")
-    file.write(f"Total Entries: {total}\n")
+    file.write(f"* Movies: {movies}\n")
+    file.write(f"* People: {people}\n\n")
 
-    file.write(f"\n\n# Occurrences of Tags:\n\n")
+    file.write(f"# Unique tags: {len(tag_counts)}\n")
+    file.write(f"Occurrences of Tags:\n\n")
     for tag, count in sorted(tag_counts.items(), key=lambda x: x[1], reverse=True):
         file.write(f'* {tag}: {count}' + "\n")
