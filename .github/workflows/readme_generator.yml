@@ -27,6 +27,11 @@ jobs:
         python scripts/readme-generator.py
       shell: sh
 
+    - name: Find changed files
+      run: |
+        ls
+      shell: sh
+
     - name: Add README
       run: |
         git config --global user.name 'GitHub Actions'
