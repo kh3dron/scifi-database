@@ -49,6 +49,7 @@ def pattern_parse(file_path):
                     tag_counts[sub_tag] += 1
                 else:
                     tag_counts[sub_tag] = 1
+                tag_count += 1
         
         
         links = re.findall(link_pattern, content)
@@ -79,28 +80,28 @@ sorted_link_counts = sorted(link_counts.items(), key=lambda x: (-x[1], x[0]))
 
 with open("../README.md", "w") as file:
     
-    file.write(f"### Global Statistics\n\n")
+    file.write(f"# Global Statistics\n")
     
     file.write(f"* Total Pages: {total}\n")
     file.write(f"* Total Tag occurrences: {total_tag_count}\n")
     file.write(f"* Total Link occurrences: {total_link_count}\n\n")
     
-    file.write(f"Pages by Category:\n")
-    file.write(f"  * Short Stories: {stories}\n")
-    file.write(f"  * TV Episodes: {tv}\n")
-    file.write(f"  * Novels: {novels}\n")
-    file.write(f"  * Comics: {comics}\n")
-    file.write(f"  * Movies: {movies}\n")
-    file.write(f"  * People: {people}\n")
+    file.write(f"\n# Pages by Category:\n")
+    file.write(f"* Short Stories: {stories}\n")
+    file.write(f"* TV Episodes: {tv}\n")
+    file.write(f"* Novels: {novels}\n")
+    file.write(f"* Comics: {comics}\n")
+    file.write(f"* Movies: {movies}\n")
+    file.write(f"* People: {people}\n")
     
     
-    file.write(f"\nUnique tags: {len(tag_counts)}\n")
-    file.write(f"Tags by usage:\n\n")
+    file.write(f"\n\n# Unique tags: {len(tag_counts)}")
+    file.write(f"\nTags by usage:\n")
     for tag, count in sorted_tag_counts:
         file.write(f'* {tag}: {count}\n')
 
-    file.write(f"\nUnique links: {len(link_counts)}\n")
-    file.write(f"Links by usage:\n\n")
+    file.write(f"\n\n# Unique links: {len(link_counts)}")
+    file.write(f"\nLinks by usage:\n")
     for link, count in sorted_link_counts:
         file.write(f'* {link}: {count}\n')
     
