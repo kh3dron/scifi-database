@@ -18,7 +18,7 @@ jobs:
         
     - name: move into scripts directory
       run: |
-        cd scripts
+        cd scripts && pwd && ls
       shell: sh
         
     - name: Install dependencies
