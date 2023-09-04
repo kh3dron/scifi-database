@@ -1,20 +1,20 @@
-### Global Statistics
-
+# Global Statistics
 * Total Pages: 230
-* Total Tag occurrences: 0
+* Total Tag occurrences: 754
 * Total Link occurrences: 182
 
-Pages by Category:
-  * Short Stories: 56
-  * TV Episodes: 18
-  * Novels: 56
-  * Comics: 25
-  * Movies: 65
-  * People: 10
 
-Unique tags: 103
+# Pages by Category:
+* Short Stories: 56
+* TV Episodes: 18
+* Novels: 56
+* Comics: 25
+* Movies: 65
+* People: 10
+
+
+# Unique tags: 103
 Tags by usage:
-
 * #action: 43
 * #aliens: 37
 * #space: 34
@@ -119,9 +119,9 @@ Tags by usage:
 * #physics: 1
 * #sex: 1
 
-Unique links: 102
-Links by usage:
 
+# Unique links: 102
+Links by usage:
 * Arthur C. Clarke: 34
 * Issac Asimov: 9
 * Syd Mead: 7
