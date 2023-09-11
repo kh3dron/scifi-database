@@ -9,7 +9,6 @@
 * TV/Animatrix/World Record - 8 bytes
 * TV/The X Files/Tooms - 8 bytes
 * Movies/Source Code - 11 bytes
-* Movies/Mission to Mars - 12 bytes
 * TV/Memories/Magnetic Rose - 12 bytes
 * Movies/Alien 3 - 14 bytes
 * Movies/Prometheus - 14 bytes
@@ -22,7 +21,6 @@
 * Novels/Apex - 21 bytes
 * TV/Neo Tokyo/Labyrinth Labyrinthos - 21 bytes
 * Movies/Chronicle - 23 bytes
-* Movies/Transcendence - 23 bytes
 * Movies/Her - 24 bytes
 * Movies/Inception - 26 bytes
 * TV/The X Files/Ghost in the Machine - 26 bytes
@@ -184,6 +182,7 @@
 * Stories/Arthur C. Clarke/The Awakening - 355 bytes
 * Stories/The Best Science Fiction of the Year, Volume 2 (Neil Clarke)/A Strange Loop - 359 bytes
 * Novels/Armada - 364 bytes
+* Movies/Transcendence - 370 bytes
 * Stories/Arthur C. Clarke/Reverie - 371 bytes
 * Movies/2010 The Year We Make Contact - 373 bytes
 * TV/Black Mirror/Crocodile - 375 bytes
@@ -196,6 +195,7 @@
 * Comics/Bits and Pieces of Information - 396 bytes
 * Stories/Arthur C. Clarke/Hide and Seek - 402 bytes
 * Stories/Arthur C. Clarke/Retreat from Earth - 409 bytes
+* Movies/Mission to Mars - 412 bytes
 * Stories/Arthur C. Clarke/Castaway - 431 bytes
 * Movies/Ad Astra - 452 bytes
 * Movies/TRON - 468 bytes
