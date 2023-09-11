@@ -1,34 +1,34 @@
 # Global Statistics
-* Total Pages: 230
-* Total Tag occurrences: 754
-* Total Link occurrences: 182
+* Total Pages: 233
+* Total Tag occurrences: 773
+* Total Link occurrences: 185
 
 
 # Pages by Category:
-* Short Stories: 56
-* TV Episodes: 18
+* Short Stories: 57
+* TV Episodes: 19
 * Novels: 56
 * Comics: 25
-* Movies: 65
+* Movies: 66
 * People: 10
 
 
-# Unique tags: 103
+# Unique tags: 109
 Tags by usage:
 * #action: 43
 * #aliens: 37
 * #space: 34
-* #matrix: 30
+* #matrix: 32
 * #personal: 28
-* #mystery: 21
+* #mystery: 22
 * #aliens/superior-aliens: 18
 * #children: 17
 * #favorites: 17
 * #comedy: 16
+* #bizarre: 15
 * #intelligence: 15
 * #romance: 15
 * #time-travel: 15
-* #bizarre: 14
 * #politics: 14
 * #time-gap: 14
 * #computation: 13
@@ -41,11 +41,11 @@ Tags by usage:
 * #megastructures: 11
 * #brain-apis: 10
 * #flesh: 10
+* #punchline: 10
 * #technical: 10
 * #twist: 10
 * #dreams: 9
 * #minor-sf-elements: 9
-* #punchline: 9
 * #gui-futurism: 8
 * #uplifting: 8
 * #vr: 8
@@ -66,6 +66,7 @@ Tags by usage:
 * #meta: 5
 * #uploaded-minds: 5
 * #xfiles: 5
+* #AGI: 4
 * #anthology: 4
 * #cosmic-horror: 4
 * #legal: 4
@@ -75,16 +76,17 @@ Tags by usage:
 * #space/space-settling: 4
 * #students: 4
 * #supernatural: 4
-* #AGI: 3
 * #YA: 3
 * #black-mirror: 3
 * #children/post-humans: 3
 * #hacking: 3
 * #memory: 3
+* #omnipotence: 3
 * #parody: 3
 * #religion: 3
 * #space/moon: 3
 * #terraforming: 3
+* #time: 3
 * #time-loop: 3
 * #von-neumann-like: 3
 * #abundance: 2
@@ -99,11 +101,14 @@ Tags by usage:
 * #instrumentality: 2
 * #mechs: 2
 * #megastructures/dyson-spheres: 2
+* #minds: 2
+* #minds/hive-minds: 2
 * #relativity: 2
 * #robots: 2
 * #space-elevator: 2
 * #space/black-holes: 2
 * #telekinesis: 2
+* #time/time-trap: 2
 * #animated: 1
 * #apocalypse: 1
 * #chemistry: 1
@@ -115,15 +120,16 @@ Tags by usage:
 * #megastructures/orbital-ring: 1
 * #megastructures/topopolis: 1
 * #multiverse: 1
-* #omnipotence: 1
+* #past: 1
 * #physics: 1
 * #sex: 1
+* #time/beyond-time: 1
 
 
-# Unique links: 102
+# Unique links: 103
 Links by usage:
 * Arthur C. Clarke: 34
-* Issac Asimov: 9
+* Issac Asimov: 10
 * Syd Mead: 7
 * Philip K. Dick: 6
 * H. G. Wells: 4
@@ -133,6 +139,7 @@ Links by usage:
 * Snow Crash: 3
 * The Machine Stops: 3
 * We Are Legion (Bobiverse 1): 3
+* Arrival: 2
 * Avatar: 2
 * Death's End: 2
 * Inception: 2
@@ -157,7 +164,6 @@ Links by usage:
 * Aliens: 1
 * All These Worlds (Bobiverse 3): 1
 * Apex: 1
-* Arrival: 1
 * Back to the Future 2: 1
 * Back to the Future 3: 1
 * Beyond: 1
@@ -217,6 +223,7 @@ Links by usage:
 * They Live: 1
 * Time Enough for Love: 1
 * Tooms: 1
+* Transcendence: 1
 * Travel By Wire!: 1
 * Tron Legacy: 1
 * War of the Worlds: 1
