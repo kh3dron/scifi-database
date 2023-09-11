@@ -1,6 +1,6 @@
 ---
 rate: 7
-author: Asimov
+author: "[[Issac Asimov]]"
 read: 10/24/2022
 ---
 

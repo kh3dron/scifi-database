@@ -4,4 +4,4 @@ author: Alan Moore
 read: 10/2019
 ---
 
-#personal #mystery #aliens/superior-aliens #politics 
+#personal #mystery #politics #omnipotence 
