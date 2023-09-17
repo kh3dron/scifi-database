@@ -132,10 +132,11 @@
 * Movies/WarGames - 203 bytes
 * Comics/Hunters and Collectors - 207 bytes
 * Novels/Islands in the Sky - 208 bytes
+* Stories/Zines/Asimov's/Nov-Dec 2018/Pregnancy as a Location in Space-Time - 208 bytes
 * Novels/The Fountains of Paradise - 209 bytes
 * Movies/Vivarium - 210 bytes
 * Stories/Arthur C. Clarke/The Forgotten Enemy - 210 bytes
-* Stories/Asimov's (Magazine)/What I Am - 210 bytes
+* Stories/Zines/Asimov's/Nov-Dec 2018/What I Am - 210 bytes
 * TV/Animatrix/Matriculated - 214 bytes
 * Stories/Standalone/Jokester - 215 bytes
 * Movies/The Congress - 219 bytes

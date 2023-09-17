@@ -1,11 +1,11 @@
 # Global Statistics
-* Total Pages: 233
-* Total Tag occurrences: 773
+* Total Pages: 234
+* Total Tag occurrences: 778
 * Total Link occurrences: 185
 
 
 # Pages by Category:
-* Short Stories: 57
+* Short Stories: 58
 * TV Episodes: 19
 * Novels: 56
 * Comics: 25
@@ -13,13 +13,13 @@
 * People: 10
 
 
-# Unique tags: 109
+# Unique tags: 110
 Tags by usage:
 * #action: 43
 * #aliens: 37
-* #space: 34
+* #space: 35
 * #matrix: 32
-* #personal: 28
+* #personal: 29
 * #mystery: 22
 * #aliens/superior-aliens: 18
 * #children: 17
@@ -47,10 +47,10 @@ Tags by usage:
 * #dreams: 9
 * #minor-sf-elements: 9
 * #gui-futurism: 8
+* #parents: 8
 * #uplifting: 8
 * #vr: 8
 * #lovecraftian: 7
-* #parents: 7
 * #self-manipulation: 7
 * #simulated-minds: 7
 * #slasher: 7
@@ -64,6 +64,7 @@ Tags by usage:
 * #language: 5
 * #megastructures/oneill-cylinder: 5
 * #meta: 5
+* #space/mars: 5
 * #uploaded-minds: 5
 * #xfiles: 5
 * #AGI: 4
@@ -72,7 +73,6 @@ Tags by usage:
 * #legal: 4
 * #medical: 4
 * #past-future: 4
-* #space/mars: 4
 * #space/space-settling: 4
 * #students: 4
 * #supernatural: 4
@@ -123,6 +123,7 @@ Tags by usage:
 * #past: 1
 * #physics: 1
 * #sex: 1
+* #suicide: 1
 * #time/beyond-time: 1
 
 
