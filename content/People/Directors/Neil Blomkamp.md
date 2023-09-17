@@ -1,0 +1,1 @@
+Cannot fucking believe this guy who did the 3 movie streak of District 9, Elysium, and Chappie made the Gran Turismo movie. Such a devastating fall from grace for WHAT reason
