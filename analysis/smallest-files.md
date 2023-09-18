@@ -197,6 +197,7 @@
 * Stories/Arthur C. Clarke/Hide and Seek - 402 bytes
 * Stories/Arthur C. Clarke/Retreat from Earth - 409 bytes
 * Movies/Mission to Mars - 412 bytes
+* Movies/12 Monkeys - 428 bytes
 * Stories/Arthur C. Clarke/Castaway - 431 bytes
 * Movies/Ad Astra - 452 bytes
 * Movies/TRON - 468 bytes
