@@ -1,6 +1,6 @@
 # Global Statistics
-* Total Pages: 234
-* Total Tag occurrences: 778
+* Total Pages: 235
+* Total Tag occurrences: 782
 * Total Link occurrences: 185
 
 
@@ -9,11 +9,11 @@
 * TV Episodes: 19
 * Novels: 56
 * Comics: 25
-* Movies: 66
+* Movies: 67
 * People: 10
 
 
-# Unique tags: 110
+# Unique tags: 111
 Tags by usage:
 * #action: 43
 * #aliens: 37
@@ -39,11 +39,11 @@ Tags by usage:
 * #dimensionality: 11
 * #horror: 11
 * #megastructures: 11
+* #twist: 11
 * #brain-apis: 10
 * #flesh: 10
 * #punchline: 10
 * #technical: 10
-* #twist: 10
 * #dreams: 9
 * #minor-sf-elements: 9
 * #gui-futurism: 8
@@ -76,9 +76,11 @@ Tags by usage:
 * #space/space-settling: 4
 * #students: 4
 * #supernatural: 4
+* #time: 4
 * #YA: 3
 * #black-mirror: 3
 * #children/post-humans: 3
+* #environmental: 3
 * #hacking: 3
 * #memory: 3
 * #omnipotence: 3
@@ -86,7 +88,6 @@ Tags by usage:
 * #religion: 3
 * #space/moon: 3
 * #terraforming: 3
-* #time: 3
 * #time-loop: 3
 * #von-neumann-like: 3
 * #abundance: 2
@@ -94,7 +95,6 @@ Tags by usage:
 * #aliens/inferior-aliens: 2
 * #cloning: 2
 * #computronium: 2
-* #environmental: 2
 * #family: 2
 * #finance: 2
 * #gaming: 2
@@ -125,6 +125,7 @@ Tags by usage:
 * #sex: 1
 * #suicide: 1
 * #time/beyond-time: 1
+* #time/time-travel: 1
 
 
 # Unique links: 103
