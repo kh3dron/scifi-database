@@ -1,7 +1,7 @@
 ---
 author: Asimov
 ---
-
+#fix-up 
 Read / listened to in June 2023, driving back and forth from Jake's studio when I was visiting home for a few weeks. I was also trying out FSD in my model 3 at the time, which felt just like being in the movie. Very futuristic feeling. 
 
 
