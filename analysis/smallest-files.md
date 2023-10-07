@@ -218,12 +218,12 @@
 * Movies/Alien Covenant - 575 bytes
 * Stories/Zines/Asimov's/Nov-Dec 2018/Incident at San Juan Bautista - 597 bytes
 * Movies/Alien - 599 bytes
-* Novels/I, Robot - 628 bytes
 * TV/Black Mirror/San Junipero - 629 bytes
+* Novels/I, Robot - 636 bytes
 * Movies/Annihilation - 638 bytes
 * Novels/The Turing Option - 676 bytes
 * Stories/AI 2041/Twin Sparrows - 709 bytes
 * Novels/Rendezvous with Rama - 803 bytes
-* Novels/Accelerando - 942 bytes
+* Novels/Accelerando - 949 bytes
 * Novels/Snow Crash - 994 bytes
 * Movies/Interstellar - 1181 bytes
