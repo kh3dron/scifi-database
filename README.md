@@ -1,21 +1,21 @@
 # Global Statistics
-* Total Pages: 237
-* Total Tag occurrences: 784
-* Total Link occurrences: 185
+* Total Pages: 240
+* Total Tag occurrences: 797
+* Total Link occurrences: 187
 
 
 # Pages by Category:
-* Short Stories: 58
+* Short Stories: 60
 * TV Episodes: 19
 * Novels: 56
 * Comics: 25
-* Movies: 69
+* Movies: 70
 * People: 10
 
 
-# Unique tags: 112
+# Unique tags: 113
 Tags by usage:
-* #action: 43
+* #action: 44
 * #aliens: 37
 * #space: 35
 * #matrix: 32
@@ -37,34 +37,36 @@ Tags by usage:
 * #abandoned-earth: 12
 * #biology: 12
 * #dimensionality: 11
+* #flesh: 11
 * #horror: 11
 * #megastructures: 11
 * #twist: 11
 * #brain-apis: 10
-* #flesh: 10
+* #minor-sf-elements: 10
 * #punchline: 10
 * #technical: 10
 * #dreams: 9
-* #minor-sf-elements: 9
+* #parents: 9
 * #gui-futurism: 8
-* #parents: 8
+* #self-manipulation: 8
 * #uplifting: 8
 * #vr: 8
 * #lovecraftian: 7
-* #self-manipulation: 7
 * #simulated-minds: 7
 * #slasher: 7
 * #body-horror: 6
+* #class: 6
 * #control-problem: 6
+* #cyberpunk: 6
 * #invasion: 6
 * #robotic-cities: 6
 * #addiction: 5
-* #class: 5
-* #cyberpunk: 5
 * #language: 5
 * #megastructures/oneill-cylinder: 5
 * #meta: 5
 * #space/mars: 5
+* #students: 5
+* #time: 5
 * #uploaded-minds: 5
 * #xfiles: 5
 * #AGI: 4
@@ -74,18 +76,18 @@ Tags by usage:
 * #medical: 4
 * #past-future: 4
 * #space/space-settling: 4
-* #students: 4
 * #supernatural: 4
-* #time: 4
 * #YA: 3
 * #black-mirror: 3
 * #children/post-humans: 3
 * #environmental: 3
+* #family: 3
 * #hacking: 3
 * #memory: 3
 * #omnipotence: 3
 * #parody: 3
 * #religion: 3
+* #robots: 3
 * #space/moon: 3
 * #terraforming: 3
 * #time-loop: 3
@@ -95,7 +97,6 @@ Tags by usage:
 * #aliens/inferior-aliens: 2
 * #cloning: 2
 * #computronium: 2
-* #family: 2
 * #finance: 2
 * #fix-up: 2
 * #gaming: 2
@@ -105,15 +106,16 @@ Tags by usage:
 * #minds: 2
 * #minds/hive-minds: 2
 * #relativity: 2
-* #robots: 2
 * #space-elevator: 2
 * #space/black-holes: 2
 * #telekinesis: 2
 * #time/time-trap: 2
+* #time/time-travel: 2
 * #animated: 1
 * #apocalypse: 1
 * #chemistry: 1
 * #cities: 1
+* #climate: 1
 * #crime: 1
 * #devolution: 1
 * #education: 1
@@ -126,10 +128,9 @@ Tags by usage:
 * #sex: 1
 * #suicide: 1
 * #time/beyond-time: 1
-* #time/time-travel: 1
 
 
-# Unique links: 103
+# Unique links: 104
 Links by usage:
 * Arthur C. Clarke: 34
 * Issac Asimov: 10
@@ -145,6 +146,7 @@ Links by usage:
 * Arrival: 2
 * Avatar: 2
 * Death's End: 2
+* Ghost in the Shell: 2
 * Inception: 2
 * Interstellar: 2
 * Never Let Me Go: 2
@@ -179,6 +181,7 @@ Links by usage:
 * Crux: 1
 * Dacey's Patent Automatic Nanny: 1
 * Division by Zero: 1
+* Elysium: 1
 * Ender's Game: 1
 * Event Horizon: 1
 * Exile of the Eons: 1
@@ -188,7 +191,6 @@ Links by usage:
 * For We Are Many (Bobiverse 2): 1
 * Frankenstein: 1
 * Get It?: 1
-* Ghost in the Shell: 1
 * Hanz Zimmer: 1
 * Heaven's River (Bobiverse 4): 1
 * Islands in the Sky: 1

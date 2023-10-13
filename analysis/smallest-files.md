@@ -2,12 +2,12 @@
 
 * Movies/Back to the Future 3 - 0 bytes
 * Movies/MIB - 0 bytes
-* Movies/Meet the Robinsons - 0 bytes
 * Movies/Predator - 0 bytes
-* Movies/The Creator - 0 bytes
+* Movies/Real Steel - 0 bytes
 * Movies/They Live - 0 bytes
 * Novels/Frankenstein - 0 bytes
 * TV/The X Files/Firewalker - 7 bytes
+* Movies/The Creator - 8 bytes
 * TV/Animatrix/World Record - 8 bytes
 * TV/The X Files/Tooms - 8 bytes
 * Movies/Source Code - 11 bytes
@@ -18,6 +18,7 @@
 * Movies/The Iron Giant - 16 bytes
 * Novels/Crux - 16 bytes
 * Movies/Paprika - 17 bytes
+* Movies/Meet the Robinsons - 18 bytes
 * Movies/Moon - 19 bytes
 * Movies/A Scanner Darkly - 21 bytes
 * Novels/Apex - 21 bytes
@@ -172,6 +173,8 @@
 * Movies/Avatar - 277 bytes
 * Stories/Arthur C. Clarke/Loophole - 280 bytes
 * Comics/Goliath - 283 bytes
+* Stories/Zines/Asimov's/Jul-Aug 2017/Annabelle, Annie - 284 bytes
+* Stories/Zines/Asimov's/Jul-Aug 2017/An Evening with Severyn Grimes - 287 bytes
 * Novels/Man Plus - 288 bytes
 * Stories/The Best Science Fiction of the Year, Volume 2 (Neil Clarke)/Ten Days - 290 bytes
 * Stories/Arthur C. Clarke/Technical Error - 300 bytes
