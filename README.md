@@ -1,6 +1,6 @@
 # Global Statistics
 * Total Pages: 237
-* Total Tag occurrences: 782
+* Total Tag occurrences: 784
 * Total Link occurrences: 185
 
 
@@ -13,7 +13,7 @@
 * People: 10
 
 
-# Unique tags: 111
+# Unique tags: 112
 Tags by usage:
 * #action: 43
 * #aliens: 37
@@ -97,6 +97,7 @@ Tags by usage:
 * #computronium: 2
 * #family: 2
 * #finance: 2
+* #fix-up: 2
 * #gaming: 2
 * #instrumentality: 2
 * #mechs: 2
