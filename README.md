@@ -1,11 +1,11 @@
 # Global Statistics
-* Total Pages: 240
-* Total Tag occurrences: 797
-* Total Link occurrences: 187
+* Total Pages: 241
+* Total Tag occurrences: 800
+* Total Link occurrences: 188
 
 
 # Pages by Category:
-* Short Stories: 60
+* Short Stories: 61
 * TV Episodes: 19
 * Novels: 56
 * Comics: 25
@@ -30,18 +30,18 @@ Tags by usage:
 * #romance: 15
 * #time-travel: 15
 * #politics: 14
+* #thought: 14
 * #time-gap: 14
 * #computation: 13
-* #thought: 13
 * #war: 13
 * #abandoned-earth: 12
 * #biology: 12
+* #brain-apis: 11
 * #dimensionality: 11
 * #flesh: 11
 * #horror: 11
 * #megastructures: 11
 * #twist: 11
-* #brain-apis: 10
 * #minor-sf-elements: 10
 * #punchline: 10
 * #technical: 10
@@ -60,6 +60,7 @@ Tags by usage:
 * #cyberpunk: 6
 * #invasion: 6
 * #robotic-cities: 6
+* #uploaded-minds: 6
 * #addiction: 5
 * #language: 5
 * #megastructures/oneill-cylinder: 5
@@ -67,7 +68,6 @@ Tags by usage:
 * #space/mars: 5
 * #students: 5
 * #time: 5
-* #uploaded-minds: 5
 * #xfiles: 5
 * #AGI: 4
 * #anthology: 4
@@ -130,7 +130,7 @@ Tags by usage:
 * #time/beyond-time: 1
 
 
-# Unique links: 104
+# Unique links: 105
 Links by usage:
 * Arthur C. Clarke: 34
 * Issac Asimov: 10
@@ -231,6 +231,7 @@ Links by usage:
 * Transcendence: 1
 * Travel By Wire!: 1
 * Tron Legacy: 1
+* Twin Sparrows: 1
 * War of the Worlds: 1
 * War of the Worlds (Novel): 1
 * WarGames: 1

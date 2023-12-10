@@ -88,6 +88,7 @@
 * Novels/Rama Revealed - 117 bytes
 * Novels/The Sirens of Titan - 117 bytes
 * Novels/The City and the Stars - 118 bytes
+* Stories/The Best of Greg Egan/Learning to be Me - 120 bytes
 * Stories/AI 2041/Gods Behind the Masks - 121 bytes
 * Novels/Cloning - 122 bytes
 * Novels/Do Androids Dream of Electric Sheep? - 125 bytes
