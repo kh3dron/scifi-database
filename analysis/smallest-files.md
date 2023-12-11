@@ -182,6 +182,7 @@
 * Movies/2001 A Space Odyssey (Movie) - 308 bytes
 * Stories/The Best Science Fiction of the Year, Volume 2 (Neil Clarke)/HigherWorks - 323 bytes
 * Stories/Arthur C. Clarke/History Lesson - Expedition to Earth - 324 bytes
+* Stories/Axiomatic/The Infinite Assassin - 325 bytes
 * Comics/Burning Hope - 337 bytes
 * Stories/The Time Traveler's Almanac/Death Ship - 343 bytes
 * Stories/Standalone/The Feeling of Power - 347 bytes
