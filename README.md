@@ -1,6 +1,6 @@
 # Global Statistics
-* Total Pages: 242
-* Total Tag occurrences: 803
+* Total Pages: 245
+* Total Tag occurrences: 813
 * Total Link occurrences: 190
 
 
@@ -9,27 +9,27 @@
 * TV Episodes: 19
 * Novels: 56
 * Comics: 25
-* Movies: 70
+* Movies: 73
 * People: 10
 
 
-# Unique tags: 113
+# Unique tags: 114
 Tags by usage:
-* #action: 44
-* #aliens: 37
+* #action: 45
+* #aliens: 38
 * #space: 35
 * #matrix: 32
-* #personal: 29
-* #mystery: 22
-* #aliens/superior-aliens: 18
+* #personal: 30
+* #mystery: 23
+* #aliens/superior-aliens: 19
+* #favorites: 18
 * #children: 17
-* #favorites: 17
 * #comedy: 16
 * #bizarre: 15
 * #intelligence: 15
+* #politics: 15
 * #romance: 15
 * #time-travel: 15
-* #politics: 14
 * #thought: 14
 * #time-gap: 14
 * #computation: 13
@@ -77,6 +77,7 @@ Tags by usage:
 * #past-future: 4
 * #space/space-settling: 4
 * #supernatural: 4
+* #time-loop: 4
 * #YA: 3
 * #black-mirror: 3
 * #children/post-humans: 3
@@ -92,7 +93,6 @@ Tags by usage:
 * #robots: 3
 * #space/moon: 3
 * #terraforming: 3
-* #time-loop: 3
 * #von-neumann-like: 3
 * #abundance: 2
 * #academics: 2
@@ -103,6 +103,7 @@ Tags by usage:
 * #fix-up: 2
 * #gaming: 2
 * #instrumentality: 2
+* #math: 2
 * #mechs: 2
 * #megastructures/dyson-spheres: 2
 * #multiverse: 2
