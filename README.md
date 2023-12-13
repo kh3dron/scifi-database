@@ -1,11 +1,11 @@
 # Global Statistics
-* Total Pages: 241
-* Total Tag occurrences: 800
-* Total Link occurrences: 188
+* Total Pages: 242
+* Total Tag occurrences: 803
+* Total Link occurrences: 190
 
 
 # Pages by Category:
-* Short Stories: 61
+* Short Stories: 62
 * TV Episodes: 19
 * Novels: 56
 * Comics: 25
@@ -84,6 +84,8 @@ Tags by usage:
 * #family: 3
 * #hacking: 3
 * #memory: 3
+* #minds: 3
+* #minds/hive-minds: 3
 * #omnipotence: 3
 * #parody: 3
 * #religion: 3
@@ -103,8 +105,7 @@ Tags by usage:
 * #instrumentality: 2
 * #mechs: 2
 * #megastructures/dyson-spheres: 2
-* #minds: 2
-* #minds/hive-minds: 2
+* #multiverse: 2
 * #relativity: 2
 * #space-elevator: 2
 * #space/black-holes: 2
@@ -122,7 +123,6 @@ Tags by usage:
 * #energy: 1
 * #megastructures/orbital-ring: 1
 * #megastructures/topopolis: 1
-* #multiverse: 1
 * #past: 1
 * #physics: 1
 * #sex: 1
@@ -130,7 +130,7 @@ Tags by usage:
 * #time/beyond-time: 1
 
 
-# Unique links: 105
+# Unique links: 106
 Links by usage:
 * Arthur C. Clarke: 34
 * Issac Asimov: 10
@@ -139,6 +139,7 @@ Links by usage:
 * H. G. Wells: 4
 * H.R. Giger: 4
 * Ted Chiang: 4
+* Inception: 3
 * Neil Blomkamp: 3
 * Snow Crash: 3
 * The Machine Stops: 3
@@ -147,7 +148,6 @@ Links by usage:
 * Avatar: 2
 * Death's End: 2
 * Ghost in the Shell: 2
-* Inception: 2
 * Interstellar: 2
 * Never Let Me Go: 2
 * Nexus: 2
@@ -163,6 +163,7 @@ Links by usage:
 * 2061 Odyssey Three: 1
 * 3001 The Final Odyssey: 1
 * Accelerando: 1
+* Across the Spiderverse: 1
 * Alien: 1
 * Alien 3: 1
 * Alien Covenant: 1
