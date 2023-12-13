@@ -1,1 +1,7 @@
-- Authored by [[Ted Chiang]]
+---
+rate: 9
+author: ted_chiang
+---
+- By [[Ted Chiang]]
+
+#math 
