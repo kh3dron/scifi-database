@@ -30,7 +30,6 @@
 * Movies/Eternal Sunshine of the Spotless Mind - 27 bytes
 * Stories/Standalone/The Machine Stops - 27 bytes
 * Movies/Aliens - 28 bytes
-* Stories/Stories of your Life/Division by Zero - 28 bytes
 * Movies/MIIB - 29 bytes
 * Movies/Snowpiercer - 32 bytes
 * Movies/The Thing - 32 bytes
@@ -38,6 +37,7 @@
 * Movies/Primer - 35 bytes
 * Movies/Tron Legacy - 36 bytes
 * Movies/Avatar The Way of Water - 39 bytes
+* Movies/Pi - 39 bytes
 * Movies/The Martian (Movie) - 39 bytes
 * Novels/Artemis - 40 bytes
 * Movies/Sunshine - 41 bytes
@@ -55,6 +55,7 @@
 * Novels/The Dark Forest - 58 bytes
 * Movies/District 9 - 59 bytes
 * Novels/3001 The Final Odyssey - 62 bytes
+* Stories/Stories of your Life/Division by Zero - 62 bytes
 * Movies/Ghost in the Shell - 63 bytes
 * Movies/Back to the Future 2 - 65 bytes
 * Movies/Ex Machina - 66 bytes
@@ -73,6 +74,7 @@
 * Novels/Death's End - 81 bytes
 * Novels/New Earth - 84 bytes
 * Movies/Soylent Green - 88 bytes
+* Movies/Tenet - 88 bytes
 * Novels/2010 Odyssey Two - 91 bytes
 * Comics/Watchmen - 92 bytes
 * Movies/GATTACA - 94 bytes
@@ -81,6 +83,7 @@
 * Movies/Galaxy Quest - 99 bytes
 * Movies/Blade Runner 2049 - 101 bytes
 * Stories/Stories of your Life/Dacey's Patent Automatic Nanny - 101 bytes
+* Movies/Contact - 109 bytes
 * Novels/We Are Legion (Bobiverse 1) - 111 bytes
 * Movies/Minority Report - 113 bytes
 * Novels/2001 A Space Odyssey - 113 bytes
