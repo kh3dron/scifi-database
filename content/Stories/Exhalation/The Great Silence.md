@@ -1,0 +1,4 @@
+---
+author: "[[Ted Chiang]]"
+---
+#environmental 

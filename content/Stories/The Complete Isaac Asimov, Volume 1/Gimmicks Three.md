@@ -4,7 +4,7 @@ author: Asimov
 read: 1/3/2023
 ---
 
-#time-travel #supernatural #dimensionality #religion 
+#time/time-travel #time/time-trap #supernatural #dimensionality #religion 
 - Written by [[Issac Asimov]]
 - A man escapes from his deal with the devil.
 - An interesting way to reframe a fairly standard trope, I like it

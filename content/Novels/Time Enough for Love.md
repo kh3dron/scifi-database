@@ -1,5 +1,5 @@
 ---
-Author: Heinlan 
+Author: "[[Robert Heinlein]]"
 ---
 #romance 
 

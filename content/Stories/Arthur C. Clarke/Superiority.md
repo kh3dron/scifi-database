@@ -5,7 +5,7 @@ read: 10/25/2022
 ---
 
 #twist #action #space #dimensionality
-#time-gap #favorites #war 
+#time/time-gap #favorites #war 
 
 - Written by [[Arthur C. Clarke]]
 - A general recounts how a war was lost due to the technical inferiority of the enemy.

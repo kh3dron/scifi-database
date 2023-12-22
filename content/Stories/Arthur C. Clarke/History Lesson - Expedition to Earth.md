@@ -4,7 +4,7 @@ author: Arthur C. Clarke
 read: 10/14/2022
 ---
 
-#aliens #time-gap #punchline
+#aliens #time/time-gap #punchline
 
 - Written by [[Arthur C. Clarke]]
 - Documents go undeciphered centuries after the human race disappears.

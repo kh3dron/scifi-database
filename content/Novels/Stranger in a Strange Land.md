@@ -1,3 +1,8 @@
+---
+author: "[[Robert Heinlein]]"
+---
+
+
 #language #romance 
 
 - Source of the "grok" term used so often in tech!

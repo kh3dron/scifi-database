@@ -4,7 +4,7 @@ author: Arthur C. Clarke
 read: 10/7/2022
 ---
 
-#time-gap #time-travel #twist #punchline 
+#time/time-gap #time/time-travel #twist #punchline 
 
 - Written by [[Arthur C. Clarke]]
 - A man waits for his heart condition to be cured by future technology.

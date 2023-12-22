@@ -1,3 +1,7 @@
+---
+author: "[[Greg Eagan]]"
+---
+
 #simulated-minds #computation #technical #thought #intelligence #self-manipulation 
 
 - Read this during my first week at Time By Ping! 

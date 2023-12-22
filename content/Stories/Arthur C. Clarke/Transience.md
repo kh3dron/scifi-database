@@ -4,7 +4,7 @@ author: Arthur C. Clarke
 read: 11/15/2022
 ---
 
-#abandoned-earth #personal #minor-sf-elements #time-gap #children 
+#abandoned-earth #personal #minor-sf-elements #time/time-gap #children 
 
 - Written by [[Arthur C. Clarke]]
 - Generations of children play on a beach as the world changes around them.

@@ -5,7 +5,7 @@ read: 11/7/2022
 ---
 
 
-#bizarre #time-travel 
+#bizarre #time/beyond-time 
 
 - Written by [[Arthur C. Clarke]]
 - Beings outside of time share a hookah.

@@ -1,0 +1,3 @@
+---
+author: "[[Ted Chiang]]"
+---

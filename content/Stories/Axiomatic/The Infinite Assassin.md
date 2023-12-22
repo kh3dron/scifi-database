@@ -1,6 +1,6 @@
 ---
 rate: 7
-author: Greg Egan
+author: "[[Greg Eagan]]"
 read: 12/11/2023
 ---
 An Assassin investigates the source of an anomaly. 

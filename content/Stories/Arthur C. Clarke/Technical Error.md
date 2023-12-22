@@ -4,7 +4,7 @@ author: Arthur C. Clarke
 read: 10/9/2022
 ---
 
-#dimensionality #time-travel 
+#dimensionality #time/time-travel 
 
 
 - Written by [[Arthur C. Clarke]]
