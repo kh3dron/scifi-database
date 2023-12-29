@@ -1,41 +1,42 @@
 # Global Statistics
-* Total Pages: 245
-* Total Tag occurrences: 813
-* Total Link occurrences: 190
+* Total Pages: 259
+* Total Tag occurrences: 871
+* Total Link occurrences: 210
 
 
 # Pages by Category:
-* Short Stories: 62
+* Short Stories: 73
 * TV Episodes: 19
 * Novels: 56
 * Comics: 25
-* Movies: 73
-* People: 10
+* Movies: 74
+* People: 12
 
 
-# Unique tags: 114
+# Unique tags: 115
 Tags by usage:
 * #action: 45
+* #time: 43
 * #aliens: 38
 * #space: 35
 * #matrix: 32
 * #personal: 30
 * #mystery: 23
 * #aliens/superior-aliens: 19
+* #children: 18
 * #favorites: 18
-* #children: 17
 * #comedy: 16
+* #romance: 16
 * #bizarre: 15
 * #intelligence: 15
 * #politics: 15
-* #romance: 15
-* #time-travel: 15
 * #thought: 14
-* #time-gap: 14
+* #time/time-gap: 14
+* #biology: 13
 * #computation: 13
+* #time/time-travel: 13
 * #war: 13
 * #abandoned-earth: 12
-* #biology: 12
 * #brain-apis: 11
 * #dimensionality: 11
 * #flesh: 11
@@ -43,19 +44,19 @@ Tags by usage:
 * #megastructures: 11
 * #twist: 11
 * #minor-sf-elements: 10
+* #parents: 10
 * #punchline: 10
 * #technical: 10
+* #uplifting: 10
 * #dreams: 9
-* #parents: 9
 * #gui-futurism: 8
 * #self-manipulation: 8
-* #uplifting: 8
 * #vr: 8
+* #class: 7
 * #lovecraftian: 7
 * #simulated-minds: 7
 * #slasher: 7
 * #body-horror: 6
-* #class: 6
 * #control-problem: 6
 * #cyberpunk: 6
 * #invasion: 6
@@ -64,35 +65,38 @@ Tags by usage:
 * #addiction: 5
 * #language: 5
 * #megastructures/oneill-cylinder: 5
+* #memory: 5
 * #meta: 5
 * #space/mars: 5
 * #students: 5
-* #time: 5
+* #time/time-loop: 5
 * #xfiles: 5
 * #AGI: 4
 * #anthology: 4
+* #children/post-humans: 4
 * #cosmic-horror: 4
+* #environmental: 4
 * #legal: 4
 * #medical: 4
 * #past-future: 4
+* #religion: 4
+* #robots: 4
 * #space/space-settling: 4
 * #supernatural: 4
-* #time-loop: 4
+* #time/time-reversal: 4
+* #time/time-trap: 4
 * #YA: 3
 * #black-mirror: 3
-* #children/post-humans: 3
-* #environmental: 3
 * #family: 3
 * #hacking: 3
-* #memory: 3
+* #instrumentality: 3
 * #minds: 3
 * #minds/hive-minds: 3
 * #omnipotence: 3
 * #parody: 3
-* #religion: 3
-* #robots: 3
 * #space/moon: 3
 * #terraforming: 3
+* #time/beyond-time: 3
 * #von-neumann-like: 3
 * #abundance: 2
 * #academics: 2
@@ -102,7 +106,6 @@ Tags by usage:
 * #finance: 2
 * #fix-up: 2
 * #gaming: 2
-* #instrumentality: 2
 * #math: 2
 * #mechs: 2
 * #megastructures/dyson-spheres: 2
@@ -111,8 +114,6 @@ Tags by usage:
 * #space-elevator: 2
 * #space/black-holes: 2
 * #telekinesis: 2
-* #time/time-trap: 2
-* #time/time-travel: 2
 * #animated: 1
 * #apocalypse: 1
 * #chemistry: 1
@@ -122,26 +123,28 @@ Tags by usage:
 * #devolution: 1
 * #education: 1
 * #energy: 1
+* #genetics: 1
 * #megastructures/orbital-ring: 1
 * #megastructures/topopolis: 1
 * #past: 1
 * #physics: 1
 * #sex: 1
 * #suicide: 1
-* #time/beyond-time: 1
 
 
-# Unique links: 106
+# Unique links: 113
 Links by usage:
 * Arthur C. Clarke: 34
+* Ted Chiang: 12
 * Issac Asimov: 10
 * Syd Mead: 7
 * Philip K. Dick: 6
+* Greg Eagan: 5
 * H. G. Wells: 4
 * H.R. Giger: 4
-* Ted Chiang: 4
 * Inception: 3
 * Neil Blomkamp: 3
+* Robert Heinlein: 3
 * Snow Crash: 3
 * The Machine Stops: 3
 * We Are Legion (Bobiverse 1): 3
@@ -152,7 +155,6 @@ Links by usage:
 * Interstellar: 2
 * Never Let Me Go: 2
 * Nexus: 2
-* Permutation City: 2
 * Rendezvous with Rama: 2
 * The Martian: 2
 * The Silicon Man: 2
@@ -207,7 +209,10 @@ Links by usage:
 * Novels/I, Robot: 1
 * Novels/I, Robot|I, Robot: 1
 * Panic City: 1
+* Permutation City: 1
 * Predator: 1
+* Predestination: 1
+* Primer: 1
 * Prometheus: 1
 * Quiankun and Alex: 1
 * Rama II: 1
@@ -216,6 +221,7 @@ Links by usage:
 * Snowpiercer: 1
 * Solaris: 1
 * Soylent Green: 1
+* Tenet: 1
 * The City and the Stars: 1
 * The Congress: 1
 * The Dark Forest: 1
@@ -223,6 +229,7 @@ Links by usage:
 * The Fountains of Paradise: 1
 * The Garden of Rama: 1
 * The Last Question: 1
+* The Relive Box: 1
 * The Second Renaissance: 1
 * The Songs of Distant Earth: 1
 * The Thing: 1
@@ -238,4 +245,5 @@ Links by usage:
 * War of the Worlds (Novel): 1
 * WarGames: 1
 * Watchmen: 1
+* What's Expected of Us: 1
 * World Record: 1
