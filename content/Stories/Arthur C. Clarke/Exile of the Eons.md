@@ -1,3 +1,7 @@
+---
+author: "[[Arthur C. Clarke]]"
+---
+
 #favorites 
 
-- Authored by [[Arthur C. Clarke]]
+- A dictator and a pacifist wake up together far in the future. 

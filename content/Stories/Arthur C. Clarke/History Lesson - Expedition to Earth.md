@@ -1,6 +1,6 @@
 ---
 rate: 6
-author: Arthur C. Clarke
+author: "[[Arthur C. Clarke]]"
 read: 10/14/2022
 ---
 

@@ -1,0 +1,3 @@
+- Chiang is consistently the most impressive Author I read - I just can't think of a weakness of his. His stories can be technical and inventive, but always grounded in human emotion and character - something most authors have to pick between, he just does both. 
+- Every story he's written is extremely memorable for being at once unique, scientifically inventive, and emotional. 
+- My only complaint is that he doesn't write enough, but it's understandable given the quality of what he produces. 

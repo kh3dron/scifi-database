@@ -1,6 +1,6 @@
 ---
 rate: 7
-author: Arthur C. Clarke
+author: "[[Arthur C. Clarke]]"
 read: 12/12/1022
 ---
 #space #dimensionality #war 

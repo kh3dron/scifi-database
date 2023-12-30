@@ -1,0 +1,2 @@
+- Eagan's stories stand out for their density. While most authors will pick a few core tropes or premises to write a story around, Eagan will cram in 3-4 times that many into the background of a story and often not even use them. This has its positives - you're rewarded for paying close attention, and for being well-rounded in the genre of SF to catch references and speculate - but could also be seen as unfocused.
+- His novels are extremely technical, inventing whole new laws of math and physics to fit. It's cool but takes a lot of focus to not get lost in. 

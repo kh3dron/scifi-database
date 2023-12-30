@@ -1,3 +1,6 @@
+---
+author: "[[Issac Asimov]]"
+---
+
 #favorites #punchline #computation 
 
-Authored by [[Issac Asimov]]
