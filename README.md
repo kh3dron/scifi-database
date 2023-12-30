@@ -1,11 +1,11 @@
 # Global Statistics
-* Total Pages: 259
-* Total Tag occurrences: 871
-* Total Link occurrences: 210
+* Total Pages: 260
+* Total Tag occurrences: 875
+* Total Link occurrences: 211
 
 
 # Pages by Category:
-* Short Stories: 73
+* Short Stories: 74
 * TV Episodes: 19
 * Novels: 56
 * Comics: 25
@@ -13,9 +13,9 @@
 * People: 12
 
 
-# Unique tags: 115
+# Unique tags: 116
 Tags by usage:
-* #action: 45
+* #action: 46
 * #time: 43
 * #aliens: 38
 * #space: 35
@@ -103,9 +103,11 @@ Tags by usage:
 * #aliens/inferior-aliens: 2
 * #cloning: 2
 * #computronium: 2
+* #crime: 2
 * #finance: 2
 * #fix-up: 2
 * #gaming: 2
+* #genetics: 2
 * #math: 2
 * #mechs: 2
 * #megastructures/dyson-spheres: 2
@@ -116,14 +118,13 @@ Tags by usage:
 * #telekinesis: 2
 * #animated: 1
 * #apocalypse: 1
+* #art: 1
 * #chemistry: 1
 * #cities: 1
 * #climate: 1
-* #crime: 1
 * #devolution: 1
 * #education: 1
 * #energy: 1
-* #genetics: 1
 * #megastructures/orbital-ring: 1
 * #megastructures/topopolis: 1
 * #past: 1
@@ -138,8 +139,8 @@ Links by usage:
 * Ted Chiang: 12
 * Issac Asimov: 10
 * Syd Mead: 7
+* Greg Eagan: 6
 * Philip K. Dick: 6
-* Greg Eagan: 5
 * H. G. Wells: 4
 * H.R. Giger: 4
 * Inception: 3
