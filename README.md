@@ -1,39 +1,40 @@
 # Global Statistics
-* Total Pages: 260
-* Total Tag occurrences: 875
-* Total Link occurrences: 211
+* Total Pages: 268
+* Total Tag occurrences: 933
+* Total Link occurrences: 217
 
 
 # Pages by Category:
-* Short Stories: 74
-* TV Episodes: 19
+* Short Stories: 77
+* TV Episodes: 24
 * Novels: 56
 * Comics: 25
 * Movies: 74
 * People: 12
 
 
-# Unique tags: 116
+# Unique tags: 122
 Tags by usage:
 * #action: 46
 * #time: 43
-* #aliens: 38
-* #space: 35
+* #aliens: 41
+* #space: 41
 * #matrix: 32
 * #personal: 30
-* #mystery: 23
-* #aliens/superior-aliens: 19
-* #children: 18
-* #favorites: 18
+* #mystery: 24
+* #aliens/superior-aliens: 20
+* #children: 19
+* #favorites: 19
+* #biology: 17
+* #politics: 17
+* #bizarre: 16
 * #comedy: 16
 * #romance: 16
-* #bizarre: 15
 * #intelligence: 15
-* #politics: 15
 * #thought: 14
 * #time/time-gap: 14
-* #biology: 13
 * #computation: 13
+* #megastructures: 13
 * #time/time-travel: 13
 * #war: 13
 * #abandoned-earth: 12
@@ -41,7 +42,7 @@ Tags by usage:
 * #dimensionality: 11
 * #flesh: 11
 * #horror: 11
-* #megastructures: 11
+* #self-manipulation: 11
 * #twist: 11
 * #minor-sf-elements: 10
 * #parents: 10
@@ -50,7 +51,8 @@ Tags by usage:
 * #uplifting: 10
 * #dreams: 9
 * #gui-futurism: 8
-* #self-manipulation: 8
+* #minds: 8
+* #space/mars: 8
 * #vr: 8
 * #class: 7
 * #lovecraftian: 7
@@ -60,24 +62,27 @@ Tags by usage:
 * #control-problem: 6
 * #cyberpunk: 6
 * #invasion: 6
+* #medical: 6
 * #robotic-cities: 6
 * #uploaded-minds: 6
 * #addiction: 5
+* #biology/alien-biology: 5
+* #children/post-humans: 5
 * #language: 5
 * #megastructures/oneill-cylinder: 5
 * #memory: 5
 * #meta: 5
-* #space/mars: 5
+* #minds/omnipotence: 5
+* #space/moon: 5
 * #students: 5
 * #time/time-loop: 5
 * #xfiles: 5
 * #AGI: 4
 * #anthology: 4
-* #children/post-humans: 4
 * #cosmic-horror: 4
 * #environmental: 4
+* #family: 4
 * #legal: 4
-* #medical: 4
 * #past-future: 4
 * #religion: 4
 * #robots: 4
@@ -87,23 +92,22 @@ Tags by usage:
 * #time/time-trap: 4
 * #YA: 3
 * #black-mirror: 3
-* #family: 3
+* #cold-war: 3
+* #crime: 3
 * #hacking: 3
 * #instrumentality: 3
-* #minds: 3
 * #minds/hive-minds: 3
-* #omnipotence: 3
 * #parody: 3
-* #space/moon: 3
 * #terraforming: 3
 * #time/beyond-time: 3
 * #von-neumann-like: 3
 * #abundance: 2
 * #academics: 2
+* #aliens/ancestor-aliens: 2
 * #aliens/inferior-aliens: 2
+* #animated: 2
 * #cloning: 2
 * #computronium: 2
-* #crime: 2
 * #finance: 2
 * #fix-up: 2
 * #gaming: 2
@@ -111,18 +115,20 @@ Tags by usage:
 * #math: 2
 * #mechs: 2
 * #megastructures/dyson-spheres: 2
+* #megastructures/space-elevator: 2
 * #multiverse: 2
 * #relativity: 2
-* #space-elevator: 2
+* #siblings: 2
 * #space/black-holes: 2
+* #suicide: 2
 * #telekinesis: 2
-* #animated: 1
 * #apocalypse: 1
 * #art: 1
 * #chemistry: 1
 * #cities: 1
 * #climate: 1
 * #devolution: 1
+* #drama: 1
 * #education: 1
 * #energy: 1
 * #megastructures/orbital-ring: 1
@@ -130,16 +136,16 @@ Tags by usage:
 * #past: 1
 * #physics: 1
 * #sex: 1
-* #suicide: 1
+* #space/asteroids: 1
 
 
-# Unique links: 113
+# Unique links: 114
 Links by usage:
-* Arthur C. Clarke: 34
+* Arthur C. Clarke: 36
 * Ted Chiang: 12
-* Issac Asimov: 10
+* Greg Eagan: 10
+* Issac Asimov: 9
 * Syd Mead: 7
-* Greg Eagan: 6
 * Philip K. Dick: 6
 * H. G. Wells: 4
 * H.R. Giger: 4
@@ -230,6 +236,7 @@ Links by usage:
 * The Fountains of Paradise: 1
 * The Garden of Rama: 1
 * The Last Question: 1
+* The Matrix: 1
 * The Relive Box: 1
 * The Second Renaissance: 1
 * The Songs of Distant Earth: 1
