@@ -5,6 +5,7 @@
 * Movies/Predator - 0 bytes
 * Movies/They Live - 0 bytes
 * Novels/Frankenstein - 0 bytes
+* Stories/Untitled - 0 bytes
 * TV/The X Files/Firewalker - 7 bytes
 * Movies/Real Steel - 8 bytes
 * Movies/The Creator - 8 bytes
@@ -150,7 +151,7 @@
 * Stories/Arthur C. Clarke/Nightfall - The Curse - 199 bytes
 * Stories/Exhalation/Exhalation - 201 bytes
 * Movies/WarGames - 203 bytes
-* Stories/The Best of Greg Egan/Learning to be Me - 203 bytes
+* Stories/Axiomatic/Learning to be Me - 203 bytes
 * Comics/Hunters and Collectors - 207 bytes
 * Novels/Islands in the Sky - 208 bytes
 * Stories/Zines/Asimov's/Nov-Dec 2018/Pregnancy as a Location in Space-Time - 208 bytes

@@ -1,11 +1,11 @@
 # Global Statistics
-* Total Pages: 268
+* Total Pages: 269
 * Total Tag occurrences: 933
 * Total Link occurrences: 217
 
 
 # Pages by Category:
-* Short Stories: 77
+* Short Stories: 78
 * TV Episodes: 24
 * Novels: 56
 * Comics: 25
