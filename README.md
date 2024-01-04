@@ -1,6 +1,6 @@
 # Global Statistics
 * Total Pages: 269
-* Total Tag occurrences: 933
+* Total Tag occurrences: 943
 * Total Link occurrences: 217
 
 
@@ -21,15 +21,15 @@ Tags by usage:
 * #space: 41
 * #matrix: 32
 * #personal: 30
+* #favorites: 27
 * #mystery: 24
 * #aliens/superior-aliens: 20
 * #children: 19
-* #favorites: 19
 * #biology: 17
 * #politics: 17
+* #romance: 17
 * #bizarre: 16
 * #comedy: 16
-* #romance: 16
 * #intelligence: 15
 * #thought: 14
 * #time/time-gap: 14
@@ -42,10 +42,10 @@ Tags by usage:
 * #dimensionality: 11
 * #flesh: 11
 * #horror: 11
+* #parents: 11
 * #self-manipulation: 11
 * #twist: 11
 * #minor-sf-elements: 10
-* #parents: 10
 * #punchline: 10
 * #technical: 10
 * #uplifting: 10

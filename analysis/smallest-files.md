@@ -25,7 +25,6 @@
 * TV/Neo Tokyo/Labyrinth Labyrinthos - 21 bytes
 * Movies/Chronicle - 23 bytes
 * Movies/Her - 24 bytes
-* Movies/Inception - 26 bytes
 * TV/The X Files/Ghost in the Machine - 26 bytes
 * Movies/Eternal Sunshine of the Spotless Mind - 27 bytes
 * Stories/Standalone/The Machine Stops - 27 bytes
@@ -45,6 +44,7 @@
 * Movies/Chappie - 42 bytes
 * Movies/Predestination - 42 bytes
 * Novels/Tau Zero - 43 bytes
+* Movies/Inception - 44 bytes
 * Movies/Primer - 45 bytes
 * TV/The X Files/Squeeze - 46 bytes
 * Stories/Exhalation/The Great Silence - 48 bytes
@@ -72,7 +72,6 @@
 * Novels/The Three Body Problem - 74 bytes
 * Novels/The Martian - 75 bytes
 * Movies/Ender's Game - 77 bytes
-* TV/Animatrix/The Second Renaissance - 79 bytes
 * TV/For All Mankind/For All Mankind Season 4 - 80 bytes
 * Movies/Oblivion - 81 bytes
 * Stories/Exhalation/The Truth of Fact, The Fact of Feeling - 83 bytes
@@ -81,19 +80,19 @@
 * Novels/Death's End - 86 bytes
 * Movies/Soylent Green - 88 bytes
 * Stories/Standalone/The Relive Box - 89 bytes
+* TV/Animatrix/The Second Renaissance - 90 bytes
 * Novels/2010 Odyssey Two - 91 bytes
 * Novels/2061 Odyssey Three - 95 bytes
 * Comics/Watchmen - 98 bytes
 * Comics/Wrong Number - 98 bytes
-* TV/For All Mankind/For All Mankind Season 2 - 98 bytes
 * Movies/Galaxy Quest - 99 bytes
 * Movies/Blade Runner 2049 - 101 bytes
 * Movies/GATTACA - 105 bytes
 * Movies/Contact - 109 bytes
+* TV/For All Mankind/For All Mankind Season 2 - 109 bytes
 * Novels/We Are Legion (Bobiverse 1) - 111 bytes
 * Novels/2001 A Space Odyssey - 113 bytes
 * Novels/Rama Revealed - 117 bytes
-* Novels/The Sirens of Titan - 117 bytes
 * Stories/Arthur C. Clarke/Exile of the Eons - 117 bytes
 * Movies/Minority Report - 119 bytes
 * Stories/AI 2041/Gods Behind the Masks - 121 bytes
@@ -103,18 +102,18 @@
 * Novels/Imperial Earth - 126 bytes
 * Stories/Isaac Asimov's Cyberdreams/A Coney Island of the Mind - 127 bytes
 * TV/Black Mirror/Joan is Awful - 127 bytes
+* Novels/The Sirens of Titan - 128 bytes
 * Movies/Tenet - 131 bytes
-* Novels/The Diamond Age - 131 bytes
 * Stories/Axiomatic/Blood Sisters - 137 bytes
 * Novels/The Songs of Distant Earth - 138 bytes
 * Stories/Exhalation/What's Expected of Us - 139 bytes
 * Novels/Rama II - 140 bytes
 * Stories/The Complete Isaac Asimov, Volume 1/The Watery Place - 140 bytes
 * Comics/System Freeze - 142 bytes
+* Novels/The Diamond Age - 142 bytes
 * TV/The X Files/Ice - 144 bytes
 * Stories/Isaac Asimov's Cyberdreams/Chip Runner - 147 bytes
 * Novels/Time Enough for Love - 148 bytes
-* Stories/Exhalation/The Merchant and the Alchemist's Gate - 150 bytes
 * Comics/Run, Saga, Run - 151 bytes
 * Stories/Axiomatic/The Caress - 154 bytes
 * Comics/Deja Vu - 155 bytes
@@ -123,6 +122,7 @@
 * Movies/World of Tomorrow - 157 bytes
 * TV/For All Mankind/For All Mankind Season 1 - 157 bytes
 * Movies/The Matrix - 161 bytes
+* Stories/Exhalation/The Merchant and the Alchemist's Gate - 161 bytes
 * Comics/The King of Never Return - 162 bytes
 * TV/Neo Tokyo/The Running Man - 162 bytes
 * Comics/A Path Among Stones - 163 bytes
@@ -149,7 +149,6 @@
 * Stories/Standalone/Jokester - 197 bytes
 * Stories/Isaac Asimov's Cyberdreams/A Hand in the Mirror - 198 bytes
 * Stories/Arthur C. Clarke/Nightfall - The Curse - 199 bytes
-* Stories/Exhalation/Exhalation - 201 bytes
 * Movies/WarGames - 203 bytes
 * Stories/Axiomatic/Learning to be Me - 203 bytes
 * Comics/Hunters and Collectors - 207 bytes
@@ -158,7 +157,7 @@
 * Novels/The Fountains of Paradise - 209 bytes
 * Movies/Vivarium - 210 bytes
 * Stories/Axiomatic/Axiomatic - 210 bytes
-* Stories/Zines/Asimov's/Nov-Dec 2018/What I Am - 210 bytes
+* Stories/Exhalation/Exhalation - 213 bytes
 * Movies/Moonfall - 214 bytes
 * TV/Animatrix/Matriculated - 214 bytes
 * Stories/Stories of your Life/Division by Zero - 216 bytes
@@ -166,6 +165,7 @@
 * Stories/Arthur C. Clarke/Whacky - 218 bytes
 * Stories/Isaac Asimov's Cyberdreams/Nearly Departed - 219 bytes
 * TV/Scavenger's Reign - 220 bytes
+* Stories/Zines/Asimov's/Nov-Dec 2018/What I Am - 222 bytes
 * Comics/Butterfly - 224 bytes
 * Movies/The Congress - 224 bytes
 * Movies/Back to the Future - 226 bytes
@@ -238,7 +238,7 @@
 * Novels/Diaspora - 485 bytes
 * TV/Neon Genesis Evangelion - 485 bytes
 * Novels/Project Hail Mary - 498 bytes
-* Novels/The Time Machine (H.G. Wells) - 503 bytes
+* Novels/The Time Machine (H.G. Wells) - 515 bytes
 * Stories/Arthur C. Clarke/Superiority - 521 bytes
 * Movies/Across the Spiderverse - 523 bytes
 * Novels/Nexus - 537 bytes
