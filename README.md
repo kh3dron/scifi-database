@@ -1,11 +1,11 @@
 # Global Statistics
-* Total Pages: 269
-* Total Tag occurrences: 943
-* Total Link occurrences: 217
+* Total Pages: 270
+* Total Tag occurrences: 953
+* Total Link occurrences: 220
 
 
 # Pages by Category:
-* Short Stories: 78
+* Short Stories: 79
 * TV Episodes: 24
 * Novels: 56
 * Comics: 25
@@ -15,54 +15,55 @@
 
 # Unique tags: 122
 Tags by usage:
-* #action: 46
+* #action: 47
 * #time: 43
+* #space: 42
 * #aliens: 41
-* #space: 41
 * #matrix: 32
-* #personal: 30
+* #personal: 31
 * #favorites: 27
 * #mystery: 24
 * #aliens/superior-aliens: 20
 * #children: 19
 * #biology: 17
+* #bizarre: 17
 * #politics: 17
 * #romance: 17
-* #bizarre: 16
 * #comedy: 16
 * #intelligence: 15
 * #thought: 14
 * #time/time-gap: 14
+* #war: 14
 * #computation: 13
 * #megastructures: 13
 * #time/time-travel: 13
-* #war: 13
 * #abandoned-earth: 12
 * #brain-apis: 11
 * #dimensionality: 11
 * #flesh: 11
 * #horror: 11
-* #parents: 11
+* #minor-sf-elements: 11
 * #self-manipulation: 11
 * #twist: 11
-* #minor-sf-elements: 10
+* #parents: 10
 * #punchline: 10
 * #technical: 10
 * #uplifting: 10
 * #dreams: 9
+* #space/mars: 9
 * #gui-futurism: 8
 * #minds: 8
-* #space/mars: 8
+* #simulated-minds: 8
 * #vr: 8
 * #class: 7
 * #lovecraftian: 7
-* #simulated-minds: 7
 * #slasher: 7
 * #body-horror: 6
 * #control-problem: 6
 * #cyberpunk: 6
 * #invasion: 6
 * #medical: 6
+* #memory: 6
 * #robotic-cities: 6
 * #uploaded-minds: 6
 * #addiction: 5
@@ -70,7 +71,6 @@ Tags by usage:
 * #children/post-humans: 5
 * #language: 5
 * #megastructures/oneill-cylinder: 5
-* #memory: 5
 * #meta: 5
 * #minds/omnipotence: 5
 * #space/moon: 5
@@ -80,8 +80,10 @@ Tags by usage:
 * #AGI: 4
 * #anthology: 4
 * #cosmic-horror: 4
+* #crime: 4
 * #environmental: 4
 * #family: 4
+* #hacking: 4
 * #legal: 4
 * #past-future: 4
 * #religion: 4
@@ -93,8 +95,6 @@ Tags by usage:
 * #YA: 3
 * #black-mirror: 3
 * #cold-war: 3
-* #crime: 3
-* #hacking: 3
 * #instrumentality: 3
 * #minds/hive-minds: 3
 * #parody: 3
@@ -142,8 +142,8 @@ Tags by usage:
 # Unique links: 114
 Links by usage:
 * Arthur C. Clarke: 36
+* Greg Eagan: 12
 * Ted Chiang: 12
-* Greg Eagan: 10
 * Issac Asimov: 9
 * Syd Mead: 7
 * Philip K. Dick: 6
@@ -157,6 +157,7 @@ Links by usage:
 * We Are Legion (Bobiverse 1): 3
 * Arrival: 2
 * Avatar: 2
+* Christopher Nolan: 2
 * Death's End: 2
 * Ghost in the Shell: 2
 * Interstellar: 2
@@ -188,7 +189,6 @@ Links by usage:
 * Blade Runner 2049: 1
 * Butterfly: 1
 * Castaway: 1
-* Christopher Nolan: 1
 * Crux: 1
 * Dacey's Patent Automatic Nanny: 1
 * Division by Zero: 1
