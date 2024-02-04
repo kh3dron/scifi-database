@@ -5,6 +5,7 @@
 * Movies/Predator - 0 bytes
 * Movies/They Live - 0 bytes
 * Novels/Frankenstein - 0 bytes
+* Novels/The Moon is a Harsh Mistress - 0 bytes
 * TV/The X Files/Firewalker - 7 bytes
 * Movies/Real Steel - 8 bytes
 * TV/Animatrix/World Record - 8 bytes
