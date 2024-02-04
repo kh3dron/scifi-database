@@ -5,16 +5,13 @@
 * Movies/Predator - 0 bytes
 * Movies/They Live - 0 bytes
 * Novels/Frankenstein - 0 bytes
-* Stories/Untitled - 0 bytes
 * TV/The X Files/Firewalker - 7 bytes
 * Movies/Real Steel - 8 bytes
-* Movies/The Creator - 8 bytes
 * TV/Animatrix/World Record - 8 bytes
 * TV/The X Files/Tooms - 8 bytes
 * TV/Memories/Magnetic Rose - 12 bytes
 * Movies/Alien 3 - 14 bytes
 * Novels/War of the Worlds (Novel) - 15 bytes
-* Movies/Source Code - 16 bytes
 * Movies/The Iron Giant - 16 bytes
 * Novels/Crux - 16 bytes
 * Movies/Paprika - 17 bytes
@@ -25,6 +22,7 @@
 * TV/Neo Tokyo/Labyrinth Labyrinthos - 21 bytes
 * Movies/Chronicle - 23 bytes
 * Movies/Her - 24 bytes
+* Movies/Source Code - 24 bytes
 * TV/The X Files/Ghost in the Machine - 26 bytes
 * Movies/Eternal Sunshine of the Spotless Mind - 27 bytes
 * Stories/Standalone/The Machine Stops - 27 bytes
@@ -44,7 +42,6 @@
 * Movies/Chappie - 42 bytes
 * Movies/Predestination - 42 bytes
 * Novels/Tau Zero - 43 bytes
-* Movies/Inception - 44 bytes
 * Movies/Primer - 45 bytes
 * TV/The X Files/Squeeze - 46 bytes
 * Stories/Exhalation/The Great Silence - 48 bytes
@@ -83,6 +80,7 @@
 * TV/Animatrix/The Second Renaissance - 90 bytes
 * Novels/2010 Odyssey Two - 91 bytes
 * Novels/2061 Odyssey Three - 95 bytes
+* Movies/The Creator - 96 bytes
 * Comics/Watchmen - 98 bytes
 * Comics/Wrong Number - 98 bytes
 * Movies/Galaxy Quest - 99 bytes
@@ -117,6 +115,7 @@
 * Comics/Run, Saga, Run - 151 bytes
 * Stories/Axiomatic/The Caress - 154 bytes
 * Comics/Deja Vu - 155 bytes
+* Stories/Axiomatic/A Kidnapping - 155 bytes
 * Comics/Who Says You Can't Get Good Help - 157 bytes
 * Movies/WALL-E - 157 bytes
 * Movies/World of Tomorrow - 157 bytes
@@ -134,6 +133,7 @@
 * Stories/The Best Science Fiction of the Year, Volume 2 (Neil Clarke)/A Good Home - 174 bytes
 * Stories/Exhalation/Omphalos - 176 bytes
 * Novels/Never Let Me Go - 179 bytes
+* Stories/Axiomatic/Seeing - 180 bytes
 * Stories/The Best Science Fiction of the Year, Volume 2 (Neil Clarke)/Night Journey of the Dragon Horse - 181 bytes
 * Stories/Arthur C. Clarke/The Forgotten Enemy - 182 bytes
 * Movies/War of the Worlds - 184 bytes
@@ -144,13 +144,13 @@
 * Movies/Watchmen (Movie) - 188 bytes
 * Comics/Get It? - 189 bytes
 * Comics/Sweating the Small Stuff - 192 bytes
-* Novels/Stranger in a Strange Land - 194 bytes
 * Comics/A Life Less Empty - 195 bytes
 * Stories/Standalone/Jokester - 197 bytes
 * Stories/Isaac Asimov's Cyberdreams/A Hand in the Mirror - 198 bytes
 * Stories/Arthur C. Clarke/Nightfall - The Curse - 199 bytes
 * Movies/WarGames - 203 bytes
 * Stories/Axiomatic/Learning to be Me - 203 bytes
+* Novels/Stranger in a Strange Land - 206 bytes
 * Comics/Hunters and Collectors - 207 bytes
 * Novels/Islands in the Sky - 208 bytes
 * Stories/Zines/Asimov's/Nov-Dec 2018/Pregnancy as a Location in Space-Time - 208 bytes
@@ -232,7 +232,6 @@
 * Stories/Arthur C. Clarke/The Fires Within - 450 bytes
 * Movies/Ad Astra - 467 bytes
 * Movies/TRON - 468 bytes
-* Movies/Mission to Mars - 476 bytes
 * Stories/AI 2041/The Golden Elephant - 476 bytes
 * Stories/Arthur C. Clarke/Transience - 480 bytes
 * Novels/Diaspora - 485 bytes
@@ -257,3 +256,5 @@
 * Novels/Accelerando - 949 bytes
 * Novels/Snow Crash - 994 bytes
 * Movies/Interstellar - 1186 bytes
+* Movies/Inception - 1514 bytes
+* Movies/Mission to Mars - 1922 bytes
