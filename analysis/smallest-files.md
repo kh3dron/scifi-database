@@ -5,7 +5,6 @@
 * Movies/Predator - 0 bytes
 * Movies/They Live - 0 bytes
 * Novels/Frankenstein - 0 bytes
-* Novels/The Moon is a Harsh Mistress - 0 bytes
 * TV/The X Files/Firewalker - 7 bytes
 * Movies/Real Steel - 8 bytes
 * TV/Animatrix/World Record - 8 bytes
@@ -211,6 +210,7 @@
 * Stories/Arthur C. Clarke/History Lesson - Expedition to Earth - 335 bytes
 * Comics/Burning Hope - 337 bytes
 * Stories/Arthur C. Clarke/The Awakening - 337 bytes
+* Novels/The Moon is a Harsh Mistress - 343 bytes
 * Stories/Arthur C. Clarke/Reverie - 343 bytes
 * Novels/Klara and the Sun - 355 bytes
 * Stories/Arthur C. Clarke/Rescue Party - 356 bytes
