@@ -44,6 +44,7 @@
 * Novels/Tau Zero - 43 bytes
 * Movies/Primer - 45 bytes
 * TV/The X Files/Squeeze - 46 bytes
+* TV/Pantheon/Pantheon S01 - 47 bytes
 * Stories/Exhalation/The Great Silence - 48 bytes
 * Novels/Solaris - 50 bytes
 * Novels/Heaven's River (Bobiverse 4) - 51 bytes

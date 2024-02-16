@@ -1,12 +1,12 @@
 # Global Statistics
-* Total Pages: 271
-* Total Tag occurrences: 953
+* Total Pages: 272
+* Total Tag occurrences: 957
 * Total Link occurrences: 223
 
 
 # Pages by Category:
 * Short Stories: 79
-* TV Episodes: 24
+* TV Episodes: 25
 * Novels: 57
 * Comics: 25
 * Movies: 74
@@ -15,7 +15,7 @@
 
 # Unique tags: 122
 Tags by usage:
-* #action: 47
+* #action: 48
 * #time: 43
 * #space: 42
 * #aliens: 41
@@ -50,14 +50,15 @@ Tags by usage:
 * #technical: 10
 * #uplifting: 10
 * #dreams: 9
+* #gui-futurism: 9
 * #space/mars: 9
-* #gui-futurism: 8
 * #minds: 8
 * #simulated-minds: 8
 * #vr: 8
 * #class: 7
 * #lovecraftian: 7
 * #slasher: 7
+* #uploaded-minds: 7
 * #body-horror: 6
 * #control-problem: 6
 * #cyberpunk: 6
@@ -65,7 +66,6 @@ Tags by usage:
 * #medical: 6
 * #memory: 6
 * #robotic-cities: 6
-* #uploaded-minds: 6
 * #addiction: 5
 * #biology/alien-biology: 5
 * #children/post-humans: 5
@@ -94,6 +94,7 @@ Tags by usage:
 * #time/time-trap: 4
 * #YA: 3
 * #black-mirror: 3
+* #cloning: 3
 * #cold-war: 3
 * #instrumentality: 3
 * #minds/hive-minds: 3
@@ -106,7 +107,6 @@ Tags by usage:
 * #aliens/ancestor-aliens: 2
 * #aliens/inferior-aliens: 2
 * #animated: 2
-* #cloning: 2
 * #computronium: 2
 * #finance: 2
 * #fix-up: 2
