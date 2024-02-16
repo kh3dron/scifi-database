@@ -1,7 +1,7 @@
 # Global Statistics
 * Total Pages: 271
 * Total Tag occurrences: 953
-* Total Link occurrences: 220
+* Total Link occurrences: 223
 
 
 # Pages by Category:
@@ -139,7 +139,7 @@ Tags by usage:
 * #space/asteroids: 1
 
 
-# Unique links: 114
+# Unique links: 115
 Links by usage:
 * Arthur C. Clarke: 36
 * Greg Eagan: 12
@@ -149,9 +149,9 @@ Links by usage:
 * Philip K. Dick: 6
 * H. G. Wells: 4
 * H.R. Giger: 4
+* Robert Heinlein: 4
 * Inception: 3
 * Neil Blomkamp: 3
-* Robert Heinlein: 3
 * Snow Crash: 3
 * The Machine Stops: 3
 * We Are Legion (Bobiverse 1): 3
@@ -167,6 +167,7 @@ Links by usage:
 * The Martian: 2
 * The Silicon Man: 2
 * The Terminator: 2
+* Time Enough for Love: 2
 * 2001 A Space Odyssey: 1
 * 2001 A Space Odyssey (Movie): 1
 * 2010 Odyssey Two: 1
@@ -228,6 +229,7 @@ Links by usage:
 * Snowpiercer: 1
 * Solaris: 1
 * Soylent Green: 1
+* Stranger in a Strange Land: 1
 * Tenet: 1
 * The City and the Stars: 1
 * The Congress: 1
@@ -243,7 +245,6 @@ Links by usage:
 * The Thing: 1
 * The Time Machine (H.G. Wells): 1
 * They Live: 1
-* Time Enough for Love: 1
 * Tooms: 1
 * Transcendence: 1
 * Travel By Wire!: 1
