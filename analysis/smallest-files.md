@@ -149,6 +149,7 @@
 * Stories/Standalone/Jokester - 197 bytes
 * Stories/Isaac Asimov's Cyberdreams/A Hand in the Mirror - 198 bytes
 * Stories/Arthur C. Clarke/Nightfall - The Curse - 199 bytes
+* Stories/AI 2041/My Haunting Idol - 202 bytes
 * Movies/WarGames - 203 bytes
 * Stories/Axiomatic/Learning to be Me - 203 bytes
 * Novels/Stranger in a Strange Land - 206 bytes
