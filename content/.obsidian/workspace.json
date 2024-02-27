@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "82e251d79b59f051",
+    "type": "split",
+    "children": [
+      {
+        "id": "468b0843dcebcfb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63b93f6cbd4153f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Novels/Stranger in a Strange Land.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1faf9fc4c45549d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stories/Sinopticon/Quiankun and Alex.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e99b0e8b43fcbe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stories/AI 2041/My Haunting Idol.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c49047c831d9ed6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stories/Axiomatic/The Moat.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a4888aa5db47f7f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "102a9a6f4f17fc82",
+    "type": "split",
+    "children": [
+      {
+        "id": "d29f57229da55087",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b12a0b9ae969f3d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e1e48dc9387b1743",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#lovecraftian",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "384bf3f7c71f65a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 402.5
+  },
+  "right": {
+    "id": "ad7348f106392ca3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cfc8002bf18510c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ea35df4014bcf42",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d6c9c961806edab7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6081ffd3959f0245",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dc8ed2f3316ac22f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3a4888aa5db47f7f",
+  "lastOpenFiles": [
+    "Stories/Axiomatic/The Walk.md",
+    "Stories/Axiomatic/The Moat.md",
+    "Stories/Axiomatic/The Safe-Deposit Box.md",
+    "Untitled.md",
+    "Comics/Artistic Freedom.md",
+    "Stories/AI 2041/My Haunting Idol.md",
+    "TV/Pantheon/Pantheon S01.md",
+    "TV/Pantheon",
+    "Novels/The Moon is a Harsh Mistress.md",
+    "Movies/Avatar.md",
+    "Stories/Sinopticon/Quiankun and Alex.md",
+    "Movies/Interstellar.md",
+    "Movies/Inception.md",
+    "People/Directors/Christopher Nolan.md",
+    "Movies/Source Code.md",
+    "Movies/The Creator.md",
+    "Novels/Stranger in a Strange Land.md",
+    "Stories/Axiomatic/A Kidnapping.md",
+    "TV/Neo Tokyo/The Running Man.md",
+    "Novels/Daemon.md",
+    "Stories/Untitled.md",
+    "Stories/Axiomatic/Seeing.md",
+    "Movies/Mission to Mars.md",
+    "Movies/The Congress.md",
+    "Stories/The Best Science Fiction of the Year, Volume 2 (Neil Clarke)/Panic City.md",
+    "Stories/Arthur C. Clarke/Exile of the Eons.md",
+    "TV/Scavenger's Reign.md",
+    "TV/For All Mankind",
+    "Untitled.canvas",
+    "Stories/Exhalation",
+    "Stories/Axiomatic",
+    "Stories/The Best of Greg Egan"
+  ]
+}
