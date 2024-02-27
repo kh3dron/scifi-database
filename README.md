@@ -1,11 +1,11 @@
 # Global Statistics
-* Total Pages: 274
-* Total Tag occurrences: 958
-* Total Link occurrences: 224
+* Total Pages: 275
+* Total Tag occurrences: 964
+* Total Link occurrences: 226
 
 
 # Pages by Category:
-* Short Stories: 81
+* Short Stories: 82
 * TV Episodes: 25
 * Novels: 57
 * Comics: 25
@@ -22,10 +22,10 @@ Tags by usage:
 * #matrix: 32
 * #personal: 31
 * #favorites: 27
-* #mystery: 25
+* #mystery: 26
 * #aliens/superior-aliens: 20
 * #children: 19
-* #biology: 17
+* #biology: 18
 * #bizarre: 17
 * #politics: 17
 * #romance: 17
@@ -38,7 +38,7 @@ Tags by usage:
 * #megastructures: 13
 * #time/time-travel: 13
 * #abandoned-earth: 12
-* #brain-apis: 11
+* #brain-apis: 12
 * #dimensionality: 11
 * #flesh: 11
 * #horror: 11
@@ -52,11 +52,11 @@ Tags by usage:
 * #dreams: 9
 * #gui-futurism: 9
 * #space/mars: 9
+* #lovecraftian: 8
 * #minds: 8
 * #simulated-minds: 8
 * #vr: 8
 * #class: 7
-* #lovecraftian: 7
 * #slasher: 7
 * #uploaded-minds: 7
 * #body-horror: 6
@@ -69,6 +69,7 @@ Tags by usage:
 * #addiction: 5
 * #biology/alien-biology: 5
 * #children/post-humans: 5
+* #crime: 5
 * #language: 5
 * #megastructures/oneill-cylinder: 5
 * #meta: 5
@@ -80,7 +81,6 @@ Tags by usage:
 * #AGI: 4
 * #anthology: 4
 * #cosmic-horror: 4
-* #crime: 4
 * #environmental: 4
 * #family: 4
 * #hacking: 4
@@ -107,6 +107,7 @@ Tags by usage:
 * #aliens/ancestor-aliens: 2
 * #aliens/inferior-aliens: 2
 * #animated: 2
+* #climate: 2
 * #computronium: 2
 * #finance: 2
 * #fix-up: 2
@@ -126,7 +127,6 @@ Tags by usage:
 * #art: 1
 * #chemistry: 1
 * #cities: 1
-* #climate: 1
 * #devolution: 1
 * #drama: 1
 * #education: 1
@@ -142,7 +142,7 @@ Tags by usage:
 # Unique links: 116
 Links by usage:
 * Arthur C. Clarke: 36
-* Greg Eagan: 12
+* Greg Eagan: 14
 * Ted Chiang: 12
 * Issac Asimov: 9
 * Syd Mead: 7

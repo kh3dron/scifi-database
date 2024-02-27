@@ -5,7 +5,6 @@
 * Movies/Predator - 0 bytes
 * Movies/They Live - 0 bytes
 * Novels/Frankenstein - 0 bytes
-* Stories/Axiomatic/The Moat - 0 bytes
 * Untitled - 0 bytes
 * TV/The X Files/Firewalker - 7 bytes
 * Movies/Real Steel - 8 bytes
@@ -82,6 +81,7 @@
 * Stories/Standalone/The Relive Box - 89 bytes
 * TV/Animatrix/The Second Renaissance - 90 bytes
 * Novels/2010 Odyssey Two - 91 bytes
+* Stories/Axiomatic/The Walk - 91 bytes
 * Novels/2061 Odyssey Three - 95 bytes
 * Movies/The Creator - 96 bytes
 * Comics/Watchmen - 98 bytes
@@ -113,6 +113,7 @@
 * Comics/System Freeze - 142 bytes
 * Novels/The Diamond Age - 142 bytes
 * TV/The X Files/Ice - 144 bytes
+* Stories/Axiomatic/The Moat - 147 bytes
 * Stories/Isaac Asimov's Cyberdreams/Chip Runner - 147 bytes
 * Novels/Time Enough for Love - 148 bytes
 * Comics/Run, Saga, Run - 151 bytes
