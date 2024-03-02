@@ -71,6 +71,7 @@
 * Novels/The Three Body Problem - 74 bytes
 * Novels/The Martian - 75 bytes
 * Movies/Ender's Game - 77 bytes
+* Stories/AI 2041/The Holy Driver - 80 bytes
 * TV/For All Mankind/For All Mankind Season 4 - 80 bytes
 * Movies/Oblivion - 81 bytes
 * Stories/Exhalation/The Truth of Fact, The Fact of Feeling - 83 bytes
@@ -189,6 +190,7 @@
 * Movies/Blade Runner - 253 bytes
 * Stories/The Best Science Fiction of the Year, Volume 2 (Neil Clarke)/The Visitor from Taured - 253 bytes
 * Stories/The Complete Isaac Asimov, Volume 1/Franchise - 253 bytes
+* TV/Pantheon/Pantheon S02 - 253 bytes
 * Comics/Broadcast Depth - 254 bytes
 * Stories/AI 2041/Contactless Love - 255 bytes
 * Stories/The Best Science Fiction of the Year, Volume 2 (Neil Clarke)/Extraction Request - 259 bytes

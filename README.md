@@ -1,22 +1,22 @@
 # Global Statistics
-* Total Pages: 275
-* Total Tag occurrences: 964
-* Total Link occurrences: 226
+* Total Pages: 277
+* Total Tag occurrences: 974
+* Total Link occurrences: 229
 
 
 # Pages by Category:
-* Short Stories: 82
-* TV Episodes: 25
+* Short Stories: 83
+* TV Episodes: 26
 * Novels: 57
 * Comics: 25
 * Movies: 74
 * People: 12
 
 
-# Unique tags: 122
+# Unique tags: 123
 Tags by usage:
 * #action: 48
-* #time: 43
+* #time: 44
 * #space: 42
 * #aliens: 41
 * #matrix: 32
@@ -31,26 +31,26 @@ Tags by usage:
 * #romance: 17
 * #comedy: 16
 * #intelligence: 15
+* #megastructures: 15
+* #time/time-gap: 15
 * #thought: 14
-* #time/time-gap: 14
 * #war: 14
+* #brain-apis: 13
 * #computation: 13
-* #megastructures: 13
 * #time/time-travel: 13
 * #abandoned-earth: 12
-* #brain-apis: 12
 * #dimensionality: 11
 * #flesh: 11
 * #horror: 11
 * #minor-sf-elements: 11
 * #self-manipulation: 11
 * #twist: 11
+* #gui-futurism: 10
 * #parents: 10
 * #punchline: 10
 * #technical: 10
 * #uplifting: 10
 * #dreams: 9
-* #gui-futurism: 9
 * #space/mars: 9
 * #lovecraftian: 8
 * #minds: 8
@@ -84,6 +84,7 @@ Tags by usage:
 * #environmental: 4
 * #family: 4
 * #hacking: 4
+* #instrumentality: 4
 * #legal: 4
 * #past-future: 4
 * #religion: 4
@@ -96,7 +97,7 @@ Tags by usage:
 * #black-mirror: 3
 * #cloning: 3
 * #cold-war: 3
-* #instrumentality: 3
+* #megastructures/dyson-spheres: 3
 * #minds/hive-minds: 3
 * #parody: 3
 * #terraforming: 3
@@ -115,7 +116,7 @@ Tags by usage:
 * #genetics: 2
 * #math: 2
 * #mechs: 2
-* #megastructures/dyson-spheres: 2
+* #megastructures/orbital-ring: 2
 * #megastructures/space-elevator: 2
 * #multiverse: 2
 * #relativity: 2
@@ -123,6 +124,7 @@ Tags by usage:
 * #space/black-holes: 2
 * #suicide: 2
 * #telekinesis: 2
+* #ancestor-simulation: 1
 * #apocalypse: 1
 * #art: 1
 * #chemistry: 1
@@ -131,7 +133,6 @@ Tags by usage:
 * #drama: 1
 * #education: 1
 * #energy: 1
-* #megastructures/orbital-ring: 1
 * #megastructures/topopolis: 1
 * #past: 1
 * #physics: 1
@@ -139,7 +140,7 @@ Tags by usage:
 * #space/asteroids: 1
 
 
-# Unique links: 116
+# Unique links: 117
 Links by usage:
 * Arthur C. Clarke: 36
 * Greg Eagan: 14
@@ -155,10 +156,12 @@ Links by usage:
 * Snow Crash: 3
 * The Machine Stops: 3
 * We Are Legion (Bobiverse 1): 3
+* All These Worlds (Bobiverse 3): 2
 * Arrival: 2
 * Avatar: 2
 * Christopher Nolan: 2
 * Death's End: 2
+* Ender's Game: 2
 * Ghost in the Shell: 2
 * Interstellar: 2
 * Never Let Me Go: 2
@@ -180,7 +183,6 @@ Links by usage:
 * Alien 3: 1
 * Alien Covenant: 1
 * Aliens: 1
-* All These Worlds (Bobiverse 3): 1
 * Apex: 1
 * Back to the Future 2: 1
 * Back to the Future 3: 1
@@ -192,9 +194,9 @@ Links by usage:
 * Castaway: 1
 * Crux: 1
 * Dacey's Patent Automatic Nanny: 1
+* Diaspora: 1
 * Division by Zero: 1
 * Elysium: 1
-* Ender's Game: 1
 * Event Horizon: 1
 * Exile of the Eons: 1
 * Extraction Request: 1
