@@ -4,71 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "468b0843dcebcfb4",
+        "id": "8452d972ab5c83cb",
         "type": "tabs",
         "children": [
           {
-            "id": "63b93f6cbd4153f1",
+            "id": "d4eb50a0e6e93abb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Novels/Stranger in a Strange Land.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1faf9fc4c45549d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stories/Sinopticon/Quiankun and Alex.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e99b0e8b43fcbe3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stories/AI 2041/My Haunting Idol.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c49047c831d9ed6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "3a4888aa5db47f7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stories/AI 2041/The Holy Driver.md",
+                "file": "Stories/Axiomatic/The Safe-Deposit Box.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Stories/Axiomatic/The Safe-Deposit Box.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Stories/Axiomatic/The Safe-Deposit Box.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Stories/Axiomatic/The Safe-Deposit Box.md"
+              }
             }
           }
         ],
@@ -191,28 +147,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c49047c831d9ed6",
+  "active": "d4eb50a0e6e93abb",
   "lastOpenFiles": [
-    "Stories/Axiomatic/The Moat.md",
     "Stories/AI 2041/The Holy Driver.md",
+    "Novels/Stranger in a Strange Land.md",
+    "Stories/Sinopticon/Quiankun and Alex.md",
+    "Stories/AI 2041/My Haunting Idol.md",
+    "Movies/Your Name.md",
+    "Stories/Axiomatic/The Safe-Deposit Box.md",
+    "Stories/Axiomatic/The Moat.md",
     "TV/Pantheon/Pantheon S02.md",
     "TV/Pantheon/Pantheon S01.md",
     "TV/Untitled",
     "Stories/Axiomatic/The Walk.md",
-    "Stories/Axiomatic/The Safe-Deposit Box.md",
     "Untitled.md",
     "Comics/Artistic Freedom.md",
-    "Stories/AI 2041/My Haunting Idol.md",
     "TV/Pantheon",
     "Novels/The Moon is a Harsh Mistress.md",
     "Movies/Avatar.md",
-    "Stories/Sinopticon/Quiankun and Alex.md",
     "Movies/Interstellar.md",
     "Movies/Inception.md",
     "People/Directors/Christopher Nolan.md",
     "Movies/Source Code.md",
     "Movies/The Creator.md",
-    "Novels/Stranger in a Strange Land.md",
     "Stories/Axiomatic/A Kidnapping.md",
     "TV/Neo Tokyo/The Running Man.md",
     "Novels/Daemon.md",
@@ -220,7 +177,6 @@
     "Stories/Axiomatic/Seeing.md",
     "Movies/Mission to Mars.md",
     "Movies/The Congress.md",
-    "Stories/The Best Science Fiction of the Year, Volume 2 (Neil Clarke)/Panic City.md",
     "TV/For All Mankind",
     "Untitled.canvas",
     "Stories/Exhalation",
