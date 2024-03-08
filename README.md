@@ -1,7 +1,7 @@
 # Global Statistics
-* Total Pages: 277
+* Total Pages: 278
 * Total Tag occurrences: 974
-* Total Link occurrences: 229
+* Total Link occurrences: 230
 
 
 # Pages by Category:
@@ -9,7 +9,7 @@
 * TV Episodes: 26
 * Novels: 57
 * Comics: 25
-* Movies: 74
+* Movies: 75
 * People: 12
 
 
@@ -140,7 +140,7 @@ Tags by usage:
 * #space/asteroids: 1
 
 
-# Unique links: 117
+# Unique links: 118
 Links by usage:
 * Arthur C. Clarke: 36
 * Greg Eagan: 14
@@ -259,3 +259,4 @@ Links by usage:
 * Watchmen: 1
 * What's Expected of Us: 1
 * World Record: 1
+* Your Name: 1
