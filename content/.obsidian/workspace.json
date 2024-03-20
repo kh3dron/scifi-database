@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stories/Axiomatic/The Safe-Deposit Box.md",
+                "file": "Novels/Red Mars.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stories/Axiomatic/The Safe-Deposit Box.md",
+                "file": "Novels/Red Mars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stories/Axiomatic/The Safe-Deposit Box.md",
+                "file": "Novels/Red Mars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stories/Axiomatic/The Safe-Deposit Box.md"
+                "file": "Novels/Red Mars.md"
               }
             }
           }
@@ -149,12 +149,12 @@
   },
   "active": "d4eb50a0e6e93abb",
   "lastOpenFiles": [
+    "Stories/Axiomatic/The Safe-Deposit Box.md",
     "Stories/AI 2041/The Holy Driver.md",
     "Novels/Stranger in a Strange Land.md",
     "Stories/Sinopticon/Quiankun and Alex.md",
     "Stories/AI 2041/My Haunting Idol.md",
     "Movies/Your Name.md",
-    "Stories/Axiomatic/The Safe-Deposit Box.md",
     "Stories/Axiomatic/The Moat.md",
     "TV/Pantheon/Pantheon S02.md",
     "TV/Pantheon/Pantheon S01.md",
