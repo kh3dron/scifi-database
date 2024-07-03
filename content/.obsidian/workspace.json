@@ -19,8 +19,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "abaae6aa44e68339",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#lovecraftian",
+                "query": "favorites",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -66,11 +75,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 402.5
+    "width": 209.50260543823242
   },
   "right": {
     "id": "ad7348f106392ca3",
@@ -135,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,8 +157,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4eb50a0e6e93abb",
+  "active": "abaae6aa44e68339",
   "lastOpenFiles": [
+    "Novels/Red Mars.md",
     "Stories/Axiomatic/The Safe-Deposit Box.md",
     "Stories/AI 2041/The Holy Driver.md",
     "Novels/Stranger in a Strange Land.md",
@@ -176,7 +187,6 @@
     "Stories/Untitled.md",
     "Stories/Axiomatic/Seeing.md",
     "Movies/Mission to Mars.md",
-    "Movies/The Congress.md",
     "TV/For All Mankind",
     "Untitled.canvas",
     "Stories/Exhalation",

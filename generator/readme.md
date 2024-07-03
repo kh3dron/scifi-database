@@ -1,0 +1,1 @@
+# Tools for modifying the "generated" content directory

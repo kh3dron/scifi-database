@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eaa6966bab08c527",
+            "id": "0c29adfb8133433c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/Stories/Axiomatic/The Cutie.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/Stories/Axiomatic/The Cutie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/Stories/Axiomatic/The Cutie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +124,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/Stories/Axiomatic/The Cutie.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,8 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eaa6966bab08c527",
+  "active": "0c29adfb8133433c",
   "lastOpenFiles": [
+    "content/Stories/Axiomatic/Into Darkness.md",
+    "content/Stories/Axiomatic/Appropriate Love.md",
+    "content/Untitled.md",
+    "content/Stories/Axiomatic/The Cutie.md",
+    "content/Stories/Axiomatic/Learning to be Me.md",
+    "content/Stories/Axiomatic/The Walk.md",
+    "content/Stories/Axiomatic/Axiomatic.md",
+    "content/Stories/Axiomatic/Blood Sisters.md",
+    "content/Stories/Axiomatic/Eugene.md",
     "content/Novels/The Moon is a Harsh Mistress.md",
     "content/Novels/Untitled.md"
   ]
