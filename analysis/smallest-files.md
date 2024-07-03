@@ -144,7 +144,6 @@
 * Stories/Arthur C. Clarke/The Forgotten Enemy - 182 bytes
 * Movies/War of the Worlds - 184 bytes
 * Comics/Farewell Performance - 186 bytes
-* Novels/Red Mars - 186 bytes
 * Comics/I Kant - 187 bytes
 * TV/Animatrix/A Detective Story - 187 bytes
 * Movies/Watchmen (Movie) - 188 bytes
@@ -182,6 +181,7 @@
 * Novels/Permutation City - 236 bytes
 * Stories/Arthur C. Clarke/The Wall of Darkness - 236 bytes
 * Stories/The Best Science Fiction of the Year, Volume 2 (Neil Clarke)/Terminal - 236 bytes
+* Novels/Red Mars - 238 bytes
 * Novels/The Island of Dr. Moreau - 238 bytes
 * Stories/The Best Science Fiction of the Year, Volume 2 (Neil Clarke)/Prodigal - 241 bytes
 * Stories/The Complete Isaac Asimov, Volume 1/Kid Stuff - 241 bytes

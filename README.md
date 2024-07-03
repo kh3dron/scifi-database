@@ -1,6 +1,6 @@
 # Global Statistics
 * Total Pages: 278
-* Total Tag occurrences: 974
+* Total Tag occurrences: 980
 * Total Link occurrences: 230
 
 
@@ -17,18 +17,18 @@
 Tags by usage:
 * #action: 48
 * #time: 44
-* #space: 42
+* #space: 43
 * #aliens: 41
 * #matrix: 32
-* #personal: 31
+* #personal: 32
 * #favorites: 27
 * #mystery: 26
 * #aliens/superior-aliens: 20
+* #biology: 19
 * #children: 19
-* #biology: 18
+* #politics: 18
+* #romance: 18
 * #bizarre: 17
-* #politics: 17
-* #romance: 17
 * #comedy: 16
 * #intelligence: 15
 * #megastructures: 15
@@ -48,10 +48,10 @@ Tags by usage:
 * #gui-futurism: 10
 * #parents: 10
 * #punchline: 10
+* #space/mars: 10
 * #technical: 10
 * #uplifting: 10
 * #dreams: 9
-* #space/mars: 9
 * #lovecraftian: 8
 * #minds: 8
 * #simulated-minds: 8
