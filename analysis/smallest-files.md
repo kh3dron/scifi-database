@@ -111,6 +111,7 @@
 * Novels/The Songs of Distant Earth - 138 bytes
 * Stories/Exhalation/What's Expected of Us - 139 bytes
 * Novels/Rama II - 140 bytes
+* Stories/Axiomatic/The Cutie - 140 bytes
 * Stories/The Complete Isaac Asimov, Volume 1/The Watery Place - 140 bytes
 * Comics/System Freeze - 142 bytes
 * Novels/The Diamond Age - 142 bytes
@@ -118,6 +119,7 @@
 * Stories/Axiomatic/The Moat - 147 bytes
 * Stories/Isaac Asimov's Cyberdreams/Chip Runner - 147 bytes
 * Novels/Time Enough for Love - 148 bytes
+* Stories/Axiomatic/Appropriate Love - 150 bytes
 * Comics/Run, Saga, Run - 151 bytes
 * Stories/Axiomatic/The Caress - 154 bytes
 * Comics/Deja Vu - 155 bytes
@@ -161,6 +163,7 @@
 * Novels/Islands in the Sky - 208 bytes
 * Stories/Zines/Asimov's/Nov-Dec 2018/Pregnancy as a Location in Space-Time - 208 bytes
 * Novels/The Fountains of Paradise - 209 bytes
+* Stories/Axiomatic/Into Darkness - 209 bytes
 * Movies/Vivarium - 210 bytes
 * Stories/Axiomatic/Axiomatic - 210 bytes
 * Stories/Exhalation/Exhalation - 213 bytes
