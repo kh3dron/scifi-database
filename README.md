@@ -1,11 +1,11 @@
 # Global Statistics
-* Total Pages: 278
-* Total Tag occurrences: 980
-* Total Link occurrences: 230
+* Total Pages: 281
+* Total Tag occurrences: 990
+* Total Link occurrences: 233
 
 
 # Pages by Category:
-* Short Stories: 83
+* Short Stories: 86
 * TV Episodes: 26
 * Novels: 57
 * Comics: 25
@@ -24,13 +24,13 @@ Tags by usage:
 * #favorites: 27
 * #mystery: 26
 * #aliens/superior-aliens: 20
-* #biology: 19
+* #biology: 20
 * #children: 19
 * #politics: 18
 * #romance: 18
 * #bizarre: 17
 * #comedy: 16
-* #intelligence: 15
+* #intelligence: 16
 * #megastructures: 15
 * #time/time-gap: 15
 * #thought: 14
@@ -39,12 +39,12 @@ Tags by usage:
 * #computation: 13
 * #time/time-travel: 13
 * #abandoned-earth: 12
-* #dimensionality: 11
-* #flesh: 11
-* #horror: 11
+* #dimensionality: 12
+* #flesh: 12
+* #horror: 12
+* #twist: 12
 * #minor-sf-elements: 11
 * #self-manipulation: 11
-* #twist: 11
 * #gui-futurism: 10
 * #parents: 10
 * #punchline: 10
@@ -52,18 +52,18 @@ Tags by usage:
 * #technical: 10
 * #uplifting: 10
 * #dreams: 9
-* #lovecraftian: 8
+* #lovecraftian: 9
 * #minds: 8
 * #simulated-minds: 8
 * #vr: 8
 * #class: 7
+* #medical: 7
 * #slasher: 7
 * #uploaded-minds: 7
 * #body-horror: 6
 * #control-problem: 6
 * #cyberpunk: 6
 * #invasion: 6
-* #medical: 6
 * #memory: 6
 * #robotic-cities: 6
 * #addiction: 5
@@ -97,6 +97,7 @@ Tags by usage:
 * #black-mirror: 3
 * #cloning: 3
 * #cold-war: 3
+* #genetics: 3
 * #megastructures/dyson-spheres: 3
 * #minds/hive-minds: 3
 * #parody: 3
@@ -110,10 +111,10 @@ Tags by usage:
 * #animated: 2
 * #climate: 2
 * #computronium: 2
+* #devolution: 2
 * #finance: 2
 * #fix-up: 2
 * #gaming: 2
-* #genetics: 2
 * #math: 2
 * #mechs: 2
 * #megastructures/orbital-ring: 2
@@ -129,7 +130,6 @@ Tags by usage:
 * #art: 1
 * #chemistry: 1
 * #cities: 1
-* #devolution: 1
 * #drama: 1
 * #education: 1
 * #energy: 1
@@ -143,7 +143,7 @@ Tags by usage:
 # Unique links: 118
 Links by usage:
 * Arthur C. Clarke: 36
-* Greg Eagan: 14
+* Greg Eagan: 17
 * Ted Chiang: 12
 * Issac Asimov: 9
 * Syd Mead: 7
