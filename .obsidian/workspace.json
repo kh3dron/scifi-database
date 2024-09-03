@@ -18,8 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "28b0223693710084",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Stories/Mind to Mind/The Mindworm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc65af28a5becebe",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Stories/Axiomatic/The Cutie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Stories/Axiomatic/The Cutie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/Stories/Axiomatic/The Cutie.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -146,8 +163,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c29adfb8133433c",
+  "active": "bc65af28a5becebe",
   "lastOpenFiles": [
+    "README.md",
+    "content/Stories/AI 2041/Gods Behind the Masks.md",
+    "content/Stories/Mind to Mind/The Mindworm.md",
+    "content/Stories/The Mammoth Book of Modern Science Fiction/The Blind Geometer.md",
+    "content/Stories/Mind to Mind",
+    "content/Stories/The Mammoth Book of Modern Science Fiction",
     "content/Stories/Axiomatic/Into Darkness.md",
     "content/Stories/Axiomatic/Appropriate Love.md",
     "content/Untitled.md",
