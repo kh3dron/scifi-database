@@ -95,6 +95,7 @@
 * TV/For All Mankind/For All Mankind Season 2 - 109 bytes
 * Novels/We Are Legion (Bobiverse 1) - 111 bytes
 * Novels/2001 A Space Odyssey - 113 bytes
+* Stories/Mind to Mind/The Mindworm - 113 bytes
 * Novels/Rama Revealed - 117 bytes
 * Stories/Arthur C. Clarke/Exile of the Eons - 117 bytes
 * Movies/Minority Report - 119 bytes
@@ -119,6 +120,7 @@
 * Stories/Axiomatic/The Moat - 147 bytes
 * Stories/Isaac Asimov's Cyberdreams/Chip Runner - 147 bytes
 * Novels/Time Enough for Love - 148 bytes
+* Stories/The Mammoth Book of Modern Science Fiction/The Blind Geometer - 149 bytes
 * Stories/Axiomatic/Appropriate Love - 150 bytes
 * Comics/Run, Saga, Run - 151 bytes
 * Stories/Axiomatic/The Caress - 154 bytes

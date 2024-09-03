@@ -1,11 +1,11 @@
 # Global Statistics
-* Total Pages: 281
-* Total Tag occurrences: 990
-* Total Link occurrences: 233
+* Total Pages: 283
+* Total Tag occurrences: 994
+* Total Link occurrences: 234
 
 
 # Pages by Category:
-* Short Stories: 86
+* Short Stories: 88
 * TV Episodes: 26
 * Novels: 57
 * Comics: 25
@@ -15,14 +15,14 @@
 
 # Unique tags: 123
 Tags by usage:
-* #action: 48
+* #action: 49
 * #time: 44
 * #space: 43
 * #aliens: 41
 * #matrix: 32
 * #personal: 32
 * #favorites: 27
-* #mystery: 26
+* #mystery: 27
 * #aliens/superior-aliens: 20
 * #biology: 20
 * #children: 19
@@ -98,9 +98,11 @@ Tags by usage:
 * #cloning: 3
 * #cold-war: 3
 * #genetics: 3
+* #math: 3
 * #megastructures/dyson-spheres: 3
 * #minds/hive-minds: 3
 * #parody: 3
+* #telekinesis: 3
 * #terraforming: 3
 * #time/beyond-time: 3
 * #von-neumann-like: 3
@@ -115,7 +117,6 @@ Tags by usage:
 * #finance: 2
 * #fix-up: 2
 * #gaming: 2
-* #math: 2
 * #mechs: 2
 * #megastructures/orbital-ring: 2
 * #megastructures/space-elevator: 2
@@ -124,7 +125,6 @@ Tags by usage:
 * #siblings: 2
 * #space/black-holes: 2
 * #suicide: 2
-* #telekinesis: 2
 * #ancestor-simulation: 1
 * #apocalypse: 1
 * #art: 1
@@ -140,7 +140,7 @@ Tags by usage:
 * #space/asteroids: 1
 
 
-# Unique links: 118
+# Unique links: 119
 Links by usage:
 * Arthur C. Clarke: 36
 * Greg Eagan: 17
@@ -210,6 +210,7 @@ Links by usage:
 * I, Robot (Movie): 1
 * Islands in the Sky: 1
 * Kid's Story: 1
+* Kim Stanley Robinson: 1
 * MIB: 1
 * Magnetic Rose: 1
 * Man Plus: 1
