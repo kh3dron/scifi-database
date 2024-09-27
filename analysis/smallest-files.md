@@ -139,7 +139,9 @@
 * Movies/Dune - 164 bytes
 * Stories/The Complete Isaac Asimov, Volume 1/The Immortal Bard - 165 bytes
 * Stories/The Time Traveler's Almanac/Top Ten Tips for Time Travellers - 165 bytes
+* Stories/The Best of Greg Egan/Chaff - 166 bytes
 * Novels/Childhood's End - 167 bytes
+* Stories/The Best of Greg Egan/Luminous - 171 bytes
 * Stories/The Best Science Fiction of the Year, Volume 2 (Neil Clarke)/A Good Home - 174 bytes
 * Stories/Exhalation/Omphalos - 176 bytes
 * Novels/Never Let Me Go - 179 bytes
@@ -162,6 +164,7 @@
 * Stories/Axiomatic/Learning to be Me - 203 bytes
 * Novels/Stranger in a Strange Land - 206 bytes
 * Comics/Hunters and Collectors - 207 bytes
+* Novels/Incandescence - 207 bytes
 * Novels/Islands in the Sky - 208 bytes
 * Stories/Zines/Asimov's/Nov-Dec 2018/Pregnancy as a Location in Space-Time - 208 bytes
 * Novels/The Fountains of Paradise - 209 bytes

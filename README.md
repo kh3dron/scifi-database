@@ -1,13 +1,13 @@
 # Global Statistics
-* Total Pages: 283
+* Total Pages: 286
 * Total Tag occurrences: 994
-* Total Link occurrences: 234
+* Total Link occurrences: 241
 
 
 # Pages by Category:
-* Short Stories: 88
+* Short Stories: 90
 * TV Episodes: 26
-* Novels: 57
+* Novels: 58
 * Comics: 25
 * Movies: 75
 * People: 12
@@ -140,10 +140,10 @@ Tags by usage:
 * #space/asteroids: 1
 
 
-# Unique links: 119
+# Unique links: 121
 Links by usage:
 * Arthur C. Clarke: 36
-* Greg Eagan: 17
+* Greg Eagan: 20
 * Ted Chiang: 12
 * Issac Asimov: 9
 * Syd Mead: 7
@@ -161,12 +161,14 @@ Links by usage:
 * Avatar: 2
 * Christopher Nolan: 2
 * Death's End: 2
+* Division by Zero: 2
 * Ender's Game: 2
 * Ghost in the Shell: 2
 * Interstellar: 2
 * Never Let Me Go: 2
 * Nexus: 2
 * Rendezvous with Rama: 2
+* The City and the Stars: 2
 * The Martian: 2
 * The Silicon Man: 2
 * The Terminator: 2
@@ -183,7 +185,9 @@ Links by usage:
 * Alien 3: 1
 * Alien Covenant: 1
 * Aliens: 1
+* Annihilation: 1
 * Apex: 1
+* Axiomatic: 1
 * Back to the Future 2: 1
 * Back to the Future 3: 1
 * Beyond: 1
@@ -195,7 +199,6 @@ Links by usage:
 * Crux: 1
 * Dacey's Patent Automatic Nanny: 1
 * Diaspora: 1
-* Division by Zero: 1
 * Elysium: 1
 * Event Horizon: 1
 * Exile of the Eons: 1
@@ -235,7 +238,6 @@ Links by usage:
 * Soylent Green: 1
 * Stranger in a Strange Land: 1
 * Tenet: 1
-* The City and the Stars: 1
 * The Congress: 1
 * The Dark Forest: 1
 * The Diamond Age: 1
