@@ -1,7 +1,7 @@
 # Global Statistics
 * Total Pages: 286
 * Total Tag occurrences: 994
-* Total Link occurrences: 241
+* Total Link occurrences: 247
 
 
 # Pages by Category:
@@ -140,7 +140,7 @@ Tags by usage:
 * #space/asteroids: 1
 
 
-# Unique links: 121
+# Unique links: 127
 Links by usage:
 * Arthur C. Clarke: 36
 * Greg Eagan: 20
@@ -196,6 +196,7 @@ Links by usage:
 * Blade Runner 2049: 1
 * Butterfly: 1
 * Castaway: 1
+* Comics: 1
 * Crux: 1
 * Dacey's Patent Automatic Nanny: 1
 * Diaspora: 1
@@ -221,9 +222,12 @@ Links by usage:
 * Minority Report: 1
 * Moon: 1
 * Moonfall: 1
+* Movies: 1
+* Novels: 1
 * Novels/I, Robot: 1
 * Novels/I, Robot|I, Robot: 1
 * Panic City: 1
+* People: 1
 * Permutation City: 1
 * Predator: 1
 * Predestination: 1
@@ -236,7 +240,9 @@ Links by usage:
 * Snowpiercer: 1
 * Solaris: 1
 * Soylent Green: 1
+* Stories: 1
 * Stranger in a Strange Land: 1
+* TV: 1
 * Tenet: 1
 * The Congress: 1
 * The Dark Forest: 1
