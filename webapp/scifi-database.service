@@ -1,0 +1,16 @@
+[Unit]
+Description=Sci-Fi Database (Quartz wiki)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/tristan/Documents/Github/scifi-database/webapp
+ExecStart=/usr/bin/npx quartz build --serve
+Restart=always
+RestartSec=5
+Environment="HOME=/home/tristan"
+Environment="PATH=/usr/local/bin:/usr/bin:/bin"
+
+[Install]
+WantedBy=default.target

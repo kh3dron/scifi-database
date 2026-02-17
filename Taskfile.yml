@@ -1,0 +1,49 @@
+version: '3'
+
+tasks:
+  install:
+    desc: Install dependencies
+    dir: webapp
+    cmds:
+      - npm install
+
+  build:
+    desc: Build the static site
+    dir: webapp
+    cmds:
+      - npx quartz build
+
+  dev:
+    desc: Build and serve with hot reload
+    dir: webapp
+    cmds:
+      - npx quartz build --serve
+
+  clean:
+    desc: Clean build artifacts
+    dir: webapp
+    cmds:
+      - rm -rf public .quartz-cache node_modules
+
+  service-install:
+    desc: Install and enable systemd service
+    cmds:
+      - ln -sf $(pwd)/webapp/scifi-database.service ~/.config/systemd/user/
+      - systemctl --user daemon-reload
+      - systemctl --user enable scifi-database.service
+      - systemctl --user start scifi-database.service
+
+  service-status:
+    desc: Check service status
+    cmds:
+      - systemctl --user status scifi-database.service
+
+  service-logs:
+    desc: View service logs
+    cmds:
+      - journalctl --user -u scifi-database.service -f
+
+  service-restart:
+    desc: Restart the service after content changes
+    cmds:
+      - systemctl --user restart scifi-database.service

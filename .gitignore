@@ -1,1 +1,10 @@
 Templates/
+.DS_Store
+
+# Quartz (webapp/)
+webapp/quartz/
+webapp/node_modules/
+webapp/public/
+webapp/.quartz-cache/
+webapp/tsconfig.tsbuildinfo
+webapp/package-lock.json

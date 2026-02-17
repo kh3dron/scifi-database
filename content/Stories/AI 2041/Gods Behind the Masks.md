@@ -1,5 +1,5 @@
 ---
-Author; Emily Jin
+Author: Emily Jin
 read: 9/2/2023
 ---
 
